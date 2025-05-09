@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="841mm"
+   height="594mm"
+   viewBox="0 0 841 594"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="plan1_4bed_env.svg"
+   inkscape:export-filename="C:\Users\fimmohr\projects_local\_git\aplause-mr_initial_study_material\2022_initial_study\floor_plans\exports\With Labels and Env\plan1_4bed_env.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <metadata
+     id="metadata44">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.25890048"
+     inkscape:cx="1514.5104"
+     inkscape:cy="1157.1361"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0" />
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect898"
+       is_visible="true"
+       lpeversion="1" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;fill-opacity:1;stroke:#828282;stroke-width:129.152;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 737.67248,593.51909 V 0.00223994"
+       id="path875"
+       inkscape:export-filename="C:\Users\fimmohr\projects_local\_git\communaudictive\experiments\2022_AUD_APMR202201_initial_study\floor_plans\exports\With Labels and Env\plan1_4bed_env.png"
+       inkscape:export-xdpi="149.98689"
+       inkscape:export-ydpi="149.98689" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:5.65189;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:45.2152, 45.2152;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 737.67248,586.98366 V 10.83215"
+       id="path877"
+       inkscape:export-filename="C:\Users\fimmohr\projects_local\_git\communaudictive\experiments\2022_AUD_APMR202201_initial_study\floor_plans\exports\With Labels and Env\plan1_4bed_env.png"
+       inkscape:export-xdpi="149.98689"
+       inkscape:export-ydpi="149.98689" />
+    <path
+       style="fill:none;stroke:#dcdcdc;stroke-width:8.58579;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 737.59559,4.3270709 h 63.73675 V 8.9172301 593.82992"
+       id="path881"
+       inkscape:export-filename="C:\Users\fimmohr\projects_local\_git\communaudictive\experiments\2022_AUD_APMR202201_initial_study\floor_plans\exports\With Labels and Env\plan1_4bed_env.png"
+       inkscape:export-xdpi="149.98689"
+       inkscape:export-ydpi="149.98689" />
+    <path
+       style="fill:none;stroke:#dcdcdc;stroke-width:8.60703;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 674.08865,593.66211 V 0.72424139"
+       id="path887"
+       inkscape:export-filename="C:\Users\fimmohr\projects_local\_git\communaudictive\experiments\2022_AUD_APMR202201_initial_study\floor_plans\exports\With Labels and Env\plan1_4bed_env.png"
+       inkscape:export-xdpi="149.98689"
+       inkscape:export-ydpi="149.98689" />
+    <path
+       style="fill:none;stroke:#dcdcdc;stroke-width:8.89707;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 805.45753,4.4601448 H 669.81409"
+       id="path889"
+       inkscape:export-filename="C:\Users\fimmohr\projects_local\_git\communaudictive\experiments\2022_AUD_APMR202201_initial_study\floor_plans\exports\With Labels and Env\plan1_4bed_env.png"
+       inkscape:export-xdpi="149.98689"
+       inkscape:export-ydpi="149.98689" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5.61344;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1076"
+       width="577.84491"
+       height="406.06723"
+       x="8.0880222"
+       y="215.48499"
+       inkscape:export-filename="C:\Users\fimmohr\projects_local\_git\communaudictive\experiments\2022_AUD_APMR202201_initial_study\floor_plans\exports\With Labels and Env\plan1_4bed_env.png"
+       inkscape:export-xdpi="149.98689"
+       inkscape:export-ydpi="149.98689"
+       transform="matrix(0,1,1,0,0,0)" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.40315;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect6728"
+       width="25.717327"
+       height="42.708328"
+       x="160.17802"
+       y="258.88303"
+       transform="matrix(0,1,1,0,0,0)"
+       inkscape:export-filename="C:\Users\fimmohr\projects_local\_git\communaudictive\experiments\2022_AUD_APMR202201_initial_study\floor_plans\exports\With Labels and Env\plan1_4bed_env.png"
+       inkscape:export-xdpi="149.98689"
+       inkscape:export-ydpi="149.98689" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5557px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;stroke-width:0.526672"
+       x="275.65384"
+       y="303.79568"
+       id="text10988"
+       inkscape:export-filename="C:\Users\fimmohr\projects_local\_git\communaudictive\experiments\2022_AUD_APMR202201_initial_study\floor_plans\exports\With Labels and Env\plan1_4bed_env.png"
+       inkscape:export-xdpi="149.98689"
+       inkscape:export-ydpi="149.98689"><tspan
+         sodipodi:role="line"
+         id="tspan10986"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5557px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.526672"
+         x="275.65384"
+         y="303.79568">KITCHEN</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5557px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;stroke-width:0.526672"
+       x="-351.74222"
+       y="-273.67938"
+       id="text10988-9"
+       transform="scale(-1)"
+       inkscape:export-filename="C:\Users\fimmohr\projects_local\_git\communaudictive\experiments\2022_AUD_APMR202201_initial_study\floor_plans\exports\With Labels and Env\plan1_4bed_env.png"
+       inkscape:export-xdpi="149.98689"
+       inkscape:export-ydpi="149.98689"><tspan
+         sodipodi:role="line"
+         id="tspan10986-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5557px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.526672"
+         x="-351.74222"
+         y="-273.67938">KITCHEN</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5557px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;stroke-width:0.526672"
+       x="412.45474"
+       y="90.885651"
+       id="text10988-1"
+       inkscape:export-filename="C:\Users\fimmohr\projects_local\_git\communaudictive\experiments\2022_AUD_APMR202201_initial_study\floor_plans\exports\With Labels and Env\plan1_4bed_env.png"
+       inkscape:export-xdpi="149.98689"
+       inkscape:export-ydpi="149.98689"><tspan
+         sodipodi:role="line"
+         id="tspan10986-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5557px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.526672"
+         x="412.45474"
+         y="90.885651">BATH</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5557px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;stroke-width:0.526672"
+       x="-459.47311"
+       y="-60.76931"
+       id="text10988-9-1"
+       transform="scale(-1)"
+       inkscape:export-filename="C:\Users\fimmohr\projects_local\_git\communaudictive\experiments\2022_AUD_APMR202201_initial_study\floor_plans\exports\With Labels and Env\plan1_4bed_env.png"
+       inkscape:export-xdpi="149.98689"
+       inkscape:export-ydpi="149.98689"><tspan
+         sodipodi:role="line"
+         id="tspan10986-2-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5557px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.526672"
+         x="-459.47311"
+         y="-60.76931">BATH</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.1115px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;stroke-width:0.526672"
+       x="284.49643"
+       y="117.24953"
+       id="text21064"
+       inkscape:export-filename="C:\Users\fimmohr\projects_local\_git\communaudictive\experiments\2022_AUD_APMR202201_initial_study\floor_plans\exports\With Labels and Env\plan1_4bed_env.png"
+       inkscape:export-xdpi="149.98689"
+       inkscape:export-ydpi="149.98689"><tspan
+         sodipodi:role="line"
+         id="tspan21062"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.1115px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.526672"
+         x="284.49643"
+         y="117.24953">A</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.1115px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;stroke-width:0.526672"
+       x="301.2113"
+       y="488.22272"
+       id="text23114"
+       inkscape:export-filename="C:\Users\fimmohr\projects_local\_git\communaudictive\experiments\2022_AUD_APMR202201_initial_study\floor_plans\exports\With Labels and Env\plan1_4bed_env.png"
+       inkscape:export-xdpi="149.98689"
+       inkscape:export-ydpi="149.98689"><tspan
+         sodipodi:role="line"
+         id="tspan23112"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.1115px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.526672"
+         x="301.2113"
+         y="488.22272">B</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.1115px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;stroke-width:0.526672"
+       x="544.80542"
+       y="116.10358"
+       id="text23114-9"
+       inkscape:export-filename="C:\Users\fimmohr\projects_local\_git\communaudictive\experiments\2022_AUD_APMR202201_initial_study\floor_plans\exports\With Labels and Env\plan1_4bed_env.png"
+       inkscape:export-xdpi="149.98689"
+       inkscape:export-ydpi="149.98689"><tspan
+         sodipodi:role="line"
+         id="tspan23112-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.1115px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.526672"
+         x="544.80542"
+         y="116.10358">C</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:5.61344;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2780"
+       width="199.05298"
+       height="126.63815"
+       x="8.0880222"
+       y="494.91409"
+       transform="matrix(0,1,1,0,0,0)"
+       inkscape:export-filename="C:\Users\fimmohr\projects_local\_git\communaudictive\experiments\2022_AUD_APMR202201_initial_study\floor_plans\exports\With Labels and Env\plan1_4bed_env.png"
+       inkscape:export-xdpi="149.98689"
+       inkscape:export-ydpi="149.98689" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:5.61344;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2780-4"
+       width="142.23431"
+       height="116.56901"
+       x="8.0880222"
+       y="378.39981"
+       transform="matrix(0,1,1,0,0,0)"
+       inkscape:export-filename="C:\Users\fimmohr\projects_local\_git\communaudictive\experiments\2022_AUD_APMR202201_initial_study\floor_plans\exports\With Labels and Env\plan1_4bed_env.png"
+       inkscape:export-xdpi="149.98689"
+       inkscape:export-ydpi="149.98689" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:5.61344;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2886"
+       width="214.08965"
+       height="210.06808"
+       x="371.84326"
+       y="411.48404"
+       transform="matrix(0,1,1,0,0,0)"
+       inkscape:export-filename="C:\Users\fimmohr\projects_local\_git\communaudictive\experiments\2022_AUD_APMR202201_initial_study\floor_plans\exports\With Labels and Env\plan1_4bed_env.png"
+       inkscape:export-xdpi="149.98689"
+       inkscape:export-ydpi="149.98689" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:5.61344;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2888"
+       width="199.05298"
+       height="162.54454"
+       x="8.0880222"
+       y="215.85527"
+       transform="matrix(0,1,1,0,0,0)"
+       inkscape:export-filename="C:\Users\fimmohr\projects_local\_git\communaudictive\experiments\2022_AUD_APMR202201_initial_study\floor_plans\exports\With Labels and Env\plan1_4bed_env.png"
+       inkscape:export-xdpi="149.98689"
+       inkscape:export-ydpi="149.98689" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:5.61344;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2890"
+       width="164.70224"
+       height="195.62885"
+       x="207.14101"
+       y="215.85527"
+       ry="0"
+       transform="matrix(0,1,1,0,0,0)"
+       inkscape:export-filename="C:\Users\fimmohr\projects_local\_git\communaudictive\experiments\2022_AUD_APMR202201_initial_study\floor_plans\exports\With Labels and Env\plan1_4bed_env.png"
+       inkscape:export-xdpi="149.98689"
+       inkscape:export-ydpi="149.98689" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:5.61344;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2892"
+       width="214.08876"
+       height="195.99915"
+       x="371.84326"
+       y="215.48499"
+       transform="matrix(0,1,1,0,0,0)"
+       inkscape:export-filename="C:\Users\fimmohr\projects_local\_git\communaudictive\experiments\2022_AUD_APMR202201_initial_study\floor_plans\exports\With Labels and Env\plan1_4bed_env.png"
+       inkscape:export-xdpi="149.98689"
+       inkscape:export-ydpi="149.98689" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.40315;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1804"
+       width="85.001274"
+       height="9.5965996"
+       x="64.197701"
+       y="616.87671"
+       inkscape:export-filename="C:\Users\fimmohr\projects_local\_git\communaudictive\experiments\2022_AUD_APMR202201_initial_study\floor_plans\exports\With Labels and Env\plan1_4bed_env.png"
+       inkscape:export-xdpi="149.98689"
+       inkscape:export-ydpi="149.98689"
+       transform="matrix(0,1,1,0,0,0)" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.73213;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3659"
+       width="91.794601"
+       height="10.009059"
+       x="439.86472"
+       y="616.68628"
+       transform="matrix(0,1,1,0,0,0)"
+       inkscape:export-filename="C:\Users\fimmohr\projects_local\_git\communaudictive\experiments\2022_AUD_APMR202201_initial_study\floor_plans\exports\With Labels and Env\plan1_4bed_env.png"
+       inkscape:export-xdpi="149.98689"
+       inkscape:export-ydpi="149.98689" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.73213;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3659-1"
+       width="91.794601"
+       height="10.009059"
+       x="245.23994"
+       y="211.90416"
+       transform="matrix(0,1,1,0,0,0)"
+       inkscape:export-filename="C:\Users\fimmohr\projects_local\_git\communaudictive\experiments\2022_AUD_APMR202201_initial_study\floor_plans\exports\With Labels and Env\plan1_4bed_env.png"
+       inkscape:export-xdpi="149.98689"
+       inkscape:export-ydpi="149.98689" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.73213;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3659-1-9"
+       width="91.794601"
+       height="10.009059"
+       x="63.42926"
+       y="212.21002"
+       transform="matrix(0,1,1,0,0,0)"
+       inkscape:export-filename="C:\Users\fimmohr\projects_local\_git\communaudictive\experiments\2022_AUD_APMR202201_initial_study\floor_plans\exports\With Labels and Env\plan1_4bed_env.png"
+       inkscape:export-xdpi="149.98689"
+       inkscape:export-ydpi="149.98689" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.73213;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3659-1-8"
+       width="91.794601"
+       height="10.009059"
+       x="431.67181"
+       y="212.28925"
+       transform="matrix(0,1,1,0,0,0)"
+       inkscape:export-filename="C:\Users\fimmohr\projects_local\_git\communaudictive\experiments\2022_AUD_APMR202201_initial_study\floor_plans\exports\With Labels and Env\plan1_4bed_env.png"
+       inkscape:export-xdpi="149.98689"
+       inkscape:export-ydpi="149.98689" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.40315;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3661-4"
+       width="63.817516"
+       height="9.9046316"
+       x="484.23083"
+       y="-590.53534"
+       transform="scale(1,-1)"
+       inkscape:export-filename="C:\Users\fimmohr\projects_local\_git\communaudictive\experiments\2022_AUD_APMR202201_initial_study\floor_plans\exports\With Labels and Env\plan1_4bed_env.png"
+       inkscape:export-xdpi="149.98689"
+       inkscape:export-ydpi="149.98689" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.07663;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 528.39613,166.0082 -35.54038,0.0953 -0.0484,28.39724 c 0,0 31.98273,5.41319 35.58874,-28.49258 z"
+       id="path4950-2-6-6-5-0"
+       sodipodi:nodetypes="cccsc"
+       inkscape:export-filename="C:\Users\fimmohr\projects_local\_git\communaudictive\experiments\2022_AUD_APMR202201_initial_study\floor_plans\exports\With Labels and Env\plan1_4bed_env.png"
+       inkscape:export-xdpi="149.98689"
+       inkscape:export-ydpi="149.98689" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.07663;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 343.69941,164.40478 35.54037,0.0953 0.0483,28.3972 c 0,0 -31.98272,5.41319 -35.58875,-28.49251 z"
+       id="path4950-2-6-6-5-0-2"
+       sodipodi:nodetypes="cccsc"
+       inkscape:export-filename="C:\Users\fimmohr\projects_local\_git\communaudictive\experiments\2022_AUD_APMR202201_initial_study\floor_plans\exports\With Labels and Env\plan1_4bed_env.png"
+       inkscape:export-xdpi="149.98689"
+       inkscape:export-ydpi="149.98689" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.07663;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 587.49474,223.38007 35.54033,0.0953 0.0483,28.39723 c 0,0 -31.98269,5.4132 -35.58875,-28.49256 z"
+       id="path4950-2-6-6-5-0-2-0"
+       sodipodi:nodetypes="cccsc"
+       inkscape:export-filename="C:\Users\fimmohr\projects_local\_git\communaudictive\experiments\2022_AUD_APMR202201_initial_study\floor_plans\exports\With Labels and Env\plan1_4bed_env.png"
+       inkscape:export-xdpi="149.98689"
+       inkscape:export-ydpi="149.98689" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.07663;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 601.45636,405.97138 -0.0952,-35.5404 -28.39724,-0.0484 c 0,0 -5.41322,31.98271 28.49259,35.58876 z"
+       id="path4950-2-6-6-5-0-6-3"
+       sodipodi:nodetypes="cccsc"
+       inkscape:export-filename="C:\Users\fimmohr\projects_local\_git\communaudictive\experiments\2022_AUD_APMR202201_initial_study\floor_plans\exports\With Labels and Env\plan1_4bed_env.png"
+       inkscape:export-xdpi="149.98689"
+       inkscape:export-ydpi="149.98689" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.07663;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 454.31295,116.33953 0.0952,35.54038 28.39722,0.0484 c 0,0 5.41325,-31.98272 -28.49256,-35.58876 z"
+       id="path4950-2-6-6-5-0-6-3-9"
+       sodipodi:nodetypes="cccsc"
+       inkscape:export-filename="C:\Users\fimmohr\projects_local\_git\communaudictive\experiments\2022_AUD_APMR202201_initial_study\floor_plans\exports\With Labels and Env\plan1_4bed_env.png"
+       inkscape:export-xdpi="149.98689"
+       inkscape:export-ydpi="149.98689" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.07663;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 232.37859,405.79777 0.0952,-35.54039 28.39727,-0.0484 c 0,0 5.41322,31.9827 -28.49259,35.58874 z"
+       id="path4950-2-6-6-5-0-6-3-3-1"
+       sodipodi:nodetypes="cccsc"
+       inkscape:export-filename="C:\Users\fimmohr\projects_local\_git\communaudictive\experiments\2022_AUD_APMR202201_initial_study\floor_plans\exports\With Labels and Env\plan1_4bed_env.png"
+       inkscape:export-xdpi="149.98689"
+       inkscape:export-ydpi="149.98689" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.1115px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;stroke-width:0.526672"
+       x="502.43869"
+       y="487.89407"
+       id="text23114-5"
+       inkscape:export-filename="C:\Users\fimmohr\projects_local\_git\communaudictive\experiments\2022_AUD_APMR202201_initial_study\floor_plans\exports\With Labels and Env\plan1_4bed_env.png"
+       inkscape:export-xdpi="149.98689"
+       inkscape:export-ydpi="149.98689"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.1115px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.526672"
+         x="502.43869"
+         y="487.89407"
+         id="tspan10407">D</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke-width:4.98263"
+       id="rect2306"
+       width="56.099442"
+       height="30.207397"
+       x="210.30104"
+       y="388.65021"
+       transform="matrix(0,1,1,0,0,0)"
+       inkscape:export-filename="C:\Users\fimmohr\projects_local\_git\communaudictive\experiments\2022_AUD_APMR202201_initial_study\floor_plans\exports\With Labels and Env\plan1_4bed_env.png"
+       inkscape:export-xdpi="149.98689"
+       inkscape:export-ydpi="149.98689" />
+    <path
+       style="fill:#00a7ff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 0.19362172,394.84149 V 196.28725 l 7.78417068,1.39744 c 13.1000976,2.35177 28.8931646,10.6031 38.5006276,20.11525 20.570937,20.36687 28.527061,48.62413 33.475945,118.89436 3.08274,43.7725 3.226976,44.59254 10.479311,59.57545 7.326999,15.13723 7.352515,15.28861 7.069041,41.93444 -0.249447,23.44905 0.516688,30.07035 6.221303,53.76646 10.74,44.61231 10.48388,57.09828 -1.84029,89.71077 l -4.426791,11.71429 H 48.825283 0.19362172 Z"
+       id="path925"
+       inkscape:export-filename="C:\Users\fimmohr\projects_local\_git\communaudictive\experiments\2022_AUD_APMR202201_initial_study\floor_plans\exports\With Labels and Env\plan1_4bed_env.png"
+       inkscape:export-xdpi="149.98689"
+       inkscape:export-ydpi="149.98689" />
+  </g>
+</svg>

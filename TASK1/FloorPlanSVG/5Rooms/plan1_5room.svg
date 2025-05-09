@@ -1,0 +1,1424 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="1163.3716"
+   version="1.1"
+   width="1008.7111"
+   id="temp"
+   viewBox="0 0 1008.711 1163.3715"
+   sodipodi:docname="plan1.svg"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+  <metadata
+     id="metadata1833">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview1831"
+     showgrid="false"
+     inkscape:zoom="0.4126955"
+     inkscape:cx="361.45942"
+     inkscape:cy="612.41292"
+     inkscape:window-x="1072"
+     inkscape:window-y="224"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Floor-1"
+     inkscape:document-rotation="0" />
+  <defs
+     id="defs2" />
+  <g
+     id="Model"
+     class="Model v1-1"
+     transform="translate(-68.68,-217)">
+    <g
+       class="Floor"
+       id="g1827">
+      <g
+         id="Floor-1"
+         class="Floorplan Floor-1">
+        <g
+           id="g794"
+           fill="#000000"
+           stroke="#000000"
+           style="fill-opacity:1;stroke-width:0.2;stroke-opacity:1"
+           class="Wall">
+          <polygon
+             points="264.16,293.66 264.16,709.16 252.16,709.16 252.16,293.66 "
+             id="polygon792" />
+        </g>
+        <g
+           id="3db21764-8d1f-49cc-944b-16afbc08c053"
+           fill="#ffffff"
+           stroke="#ffffff"
+           style="fill-opacity:1;stroke-width:0.2;stroke-opacity:1"
+           class="Space Kitchen">
+          <polygon
+             points="794.3,697.16 496.35,697.16 496.35,318.66 794.3,318.66 "
+             id="polygon173" />
+        </g>
+        <g
+           id="3f68a423-4b6e-45c8-979d-bc3d1234e354"
+           fill="#ffffff"
+           stroke="#ffffff"
+           style="fill-opacity:1;stroke-width:0.2;stroke-opacity:1"
+           class="Space Bedroom">
+          <polygon
+             points="1057.21,697.16 806.3,697.16 806.3,318.66 1057.21,318.66 "
+             id="polygon208" />
+        </g>
+        <g
+           id="23a44375-56ce-4737-bc6a-43675d0d5957"
+           fill="#ffffff"
+           stroke="#ffffff"
+           style="fill-opacity:1;stroke-width:0.2;stroke-opacity:1"
+           class="Space Bedroom">
+          <polygon
+             points="484.35,697.16 264.16,697.16 264.16,318.66 484.35,318.66 "
+             id="polygon243" />
+        </g>
+        <g
+           id="83a4c2a1-c6e6-41a6-bbc8-b48c4f66a7ca"
+           fill="#ffffff"
+           stroke="#ffffff"
+           style="fill-opacity:1;stroke-width:0.2;stroke-opacity:1"
+           class="Space Bedroom">
+          <polygon
+             points="390.88,1151.81 101.18,1151.81 101.18,865.66 390.88,865.66 "
+             id="polygon278" />
+        </g>
+        <g
+           id="01f473be-05f2-4069-a27e-0f76053d4918"
+           fill="#ffffff"
+           stroke="#ffffff"
+           style="fill-opacity:1;stroke-width:0.2;stroke-opacity:1"
+           class="Space Utility Laundry">
+          <polygon
+             points="390.88,856.66 101.18,856.66 101.18,709.16 390.88,709.16 "
+             id="polygon313" />
+        </g>
+        <g
+           id="95afc674-5de8-471a-869f-779d8c2be2c5"
+           fill="#ffffff"
+           stroke="#ffffff"
+           style="fill-opacity:1;stroke-width:0.2;stroke-opacity:1"
+           class="Space Bath">
+          <polygon
+             points="252.16,697.16 101.18,697.16 101.18,497.87 252.16,497.87 "
+             id="polygon383" />
+        </g>
+        <g
+           id="72bcc97b-395f-4773-b992-a82e600e047f"
+           fill="#ffffff"
+           stroke="#ffffff"
+           style="fill-opacity:1;stroke-width:0.2;stroke-opacity:1"
+           class="Space Bath"
+           transform="translate(0,120.06)">
+          <polygon
+             points="507,1151.81 507,1031.75 616.91,1031.75 616.91,1151.81 "
+             id="polygon453" />
+        </g>
+        <g
+           id="5e1c1bb0-65ec-4a4f-928c-46294f4a16a4"
+           fill="#ffffff"
+           stroke="#ffffff"
+           style="fill-opacity:1;stroke-width:0.2;stroke-opacity:1"
+           class="Space DraughtLobby"
+           transform="translate(0,120.06)">
+          <polygon
+             points="401.88,1151.81 401.88,1031.75 498,1031.75 498,1151.81 "
+             id="polygon488" />
+        </g>
+        <g
+           id="Wall"
+           fill="#000000"
+           stroke="#000000"
+           style="fill-opacity:1;stroke-width:0.2;stroke-opacity:1"
+           class="Wall External">
+          <polygon
+             points="69.18,293.66 1076.21,293.66 1057.21,318.66 101.18,318.66 "
+             id="polygon523" />
+          <g
+             id="Window"
+             fill="#f0f0ff"
+             stroke="#000000"
+             style="fill-opacity:1;stroke-width:1;stroke-opacity:1"
+             class="Window Regular">
+            <polygon
+               points="185.83,293.66 240.71,293.66 240.71,318.66 185.83,318.66 "
+               id="polygon525" />
+            <g
+               id="Glass"
+               class="Glass">
+              <polygon
+                 points="185.83,293.66 240.71,293.66 240.71,318.66 185.83,318.66 "
+                 id="polygon527" />
+            </g>
+            <g
+               id="Panel"
+               class="Panel">
+              <line
+                 x1="193.33202"
+                 x2="233.20898"
+                 y1="306.15924"
+                 y2="306.15924"
+                 id="line530" />
+              <line
+                 x1="193.33202"
+                 x2="193.33202"
+                 y1="293.65924"
+                 y2="318.65924"
+                 id="line532" />
+              <line
+                 x1="233.20898"
+                 x2="233.20898"
+                 y1="293.65924"
+                 y2="318.65924"
+                 id="line534" />
+            </g>
+          </g>
+          <g
+             id="g552"
+             fill="#f0f0ff"
+             stroke="#000000"
+             style="fill-opacity:1;stroke-width:1;stroke-opacity:1"
+             class="Window Regular">
+            <polygon
+               points="323.02,293.66 466.87,293.66 466.87,318.66 323.02,318.66 "
+               id="polygon538" />
+            <g
+               id="g542"
+               class="Glass">
+              <polygon
+                 points="323.02,293.66 466.87,293.66 466.87,318.66 323.02,318.66 "
+                 id="polygon540" />
+            </g>
+            <g
+               id="g550"
+               class="Panel">
+              <line
+                 x1="330.52167"
+                 x2="459.37003"
+                 y1="306.15924"
+                 y2="306.15924"
+                 id="line544" />
+              <line
+                 x1="330.52167"
+                 x2="330.52167"
+                 y1="293.65924"
+                 y2="318.65924"
+                 id="line546" />
+              <line
+                 x1="459.37003"
+                 x2="459.37003"
+                 y1="293.65924"
+                 y2="318.65924"
+                 id="line548" />
+            </g>
+          </g>
+          <g
+             id="Door"
+             fill="#ffffff"
+             stroke="#000000"
+             style="fill-opacity:1;stroke-width:1;stroke-opacity:1"
+             class="Door Swing Opposite">
+            <polygon
+               points="504.1,293.66 580.26,293.66 580.26,318.66 504.1,318.66 "
+               id="polygon554" />
+            <g
+               id="Threshold"
+               class="Threshold">
+              <polygon
+                 points="504.1,293.66 580.26,293.66 580.26,318.66 504.1,318.66 "
+                 id="polygon556" />
+            </g>
+            <g
+               id="g564"
+               fill="none"
+               class="Panel Right Negative">
+              <g
+                 id="PanelArea"
+                 fill="none"
+                 stroke="none"
+                 class="PanelArea">
+                <polygon
+                   points="504.1,293.66 580.26,293.66 580.26,318.66 504.1,318.66 "
+                   id="polygon559" />
+              </g>
+              <path
+                 d="m 580.26,293.66 q 0,-76.16 -76.16,-76.16 v 76.16 z"
+                 id="path562" />
+            </g>
+            <g
+               id="g572"
+               fill="none"
+               class="Panel Left Positive">
+              <g
+                 id="g568"
+                 fill="none"
+                 stroke="none"
+                 class="PanelArea">
+                <polygon
+                   points="504.1,293.66 580.26,293.66 580.26,318.66 504.1,318.66 "
+                   id="polygon566" />
+              </g>
+              <path
+                 d="m 580.26,318.66 q 0,76.16 -76.16,76.16 v -76.16 z"
+                 id="path570" />
+            </g>
+          </g>
+          <g
+             id="g589"
+             fill="#f0f0ff"
+             stroke="#000000"
+             style="fill-opacity:1;stroke-width:1;stroke-opacity:1"
+             class="Window Regular">
+            <polygon
+               points="587.04,293.66 727.98,293.66 727.98,318.66 587.04,318.66 "
+               id="polygon575" />
+            <g
+               id="g579"
+               class="Glass">
+              <polygon
+                 points="587.04,293.66 727.98,293.66 727.98,318.66 587.04,318.66 "
+                 id="polygon577" />
+            </g>
+            <g
+               id="g587"
+               class="Panel">
+              <line
+                 x1="594.54303"
+                 x2="720.48462"
+                 y1="306.15924"
+                 y2="306.15924"
+                 id="line581" />
+              <line
+                 x1="594.54303"
+                 x2="594.54303"
+                 y1="293.65924"
+                 y2="318.65924"
+                 id="line583" />
+              <line
+                 x1="720.48462"
+                 x2="720.48462"
+                 y1="293.65924"
+                 y2="318.65924"
+                 id="line585" />
+            </g>
+          </g>
+          <g
+             id="g605"
+             fill="#f0f0ff"
+             stroke="#000000"
+             style="fill-opacity:1;stroke-width:1;stroke-opacity:1"
+             class="Window Regular">
+            <polygon
+               points="834.05,293.66 978.67,293.66 978.67,318.66 834.05,318.66 "
+               id="polygon591" />
+            <g
+               id="g595"
+               class="Glass">
+              <polygon
+                 points="834.05,293.66 978.67,293.66 978.67,318.66 834.05,318.66 "
+                 id="polygon593" />
+            </g>
+            <g
+               id="g603"
+               class="Panel">
+              <line
+                 x1="841.55383"
+                 x2="971.16766"
+                 y1="306.15924"
+                 y2="306.15924"
+                 id="line597" />
+              <line
+                 x1="841.55383"
+                 x2="841.55383"
+                 y1="293.65924"
+                 y2="318.65924"
+                 id="line599" />
+              <line
+                 x1="971.16766"
+                 x2="971.16766"
+                 y1="293.65924"
+                 y2="318.65924"
+                 id="line601" />
+            </g>
+          </g>
+        </g>
+        <g
+           id="g610"
+           fill="#000000"
+           stroke="#000000"
+           style="fill-opacity:1;stroke-width:0.2;stroke-opacity:1"
+           class="Wall External"
+           transform="matrix(1,0,0,1.1333838,0,-39.16951)">
+          <polygon
+             points="1057.21,1151.81 1057.21,318.66 1076.21,293.66 1076.21,1183.81 "
+             id="polygon608" />
+        </g>
+        <g
+           id="g678"
+           fill="#000000"
+           stroke="#000000"
+           style="fill-opacity:1;stroke-width:0.2;stroke-opacity:1"
+           class="Wall External"
+           transform="translate(0,118.73161)">
+          <polygon
+             points="69.18,1183.81 101.18,1151.81 1057.21,1151.81 1076.21,1183.81 "
+             id="polygon612" />
+          <g
+             id="g628"
+             fill="#f0f0ff"
+             stroke="#000000"
+             style="fill-opacity:1;stroke-width:1;stroke-opacity:1"
+             class="Window Regular">
+            <polygon
+               points="183.32,1183.81 183.32,1151.81 327.94,1151.81 327.94,1183.81 "
+               id="polygon614" />
+            <g
+               id="g618"
+               class="Glass">
+              <polygon
+                 points="183.32,1183.81 183.32,1151.81 327.94,1151.81 327.94,1183.81 "
+                 id="polygon616" />
+            </g>
+            <g
+               id="g626"
+               class="Panel">
+              <line
+                 x1="320.43781"
+                 x2="190.81897"
+                 y1="1167.8146"
+                 y2="1167.8146"
+                 id="line620" />
+              <line
+                 x1="320.43781"
+                 x2="320.43781"
+                 y1="1183.8146"
+                 y2="1151.8146"
+                 id="line622" />
+              <line
+                 x1="190.81897"
+                 x2="190.81897"
+                 y1="1183.8146"
+                 y2="1151.8146"
+                 id="line624" />
+            </g>
+          </g>
+          <g
+             id="g644"
+             fill="#f0f0ff"
+             stroke="#000000"
+             style="fill-opacity:1;stroke-width:1;stroke-opacity:1"
+             class="Window Regular">
+            <polygon
+               points="511.26,1183.81 511.26,1151.81 563.78,1151.81 563.78,1183.81 "
+               id="polygon630" />
+            <g
+               id="g634"
+               class="Glass">
+              <polygon
+                 points="511.26,1183.81 511.26,1151.81 563.78,1151.81 563.78,1183.81 "
+                 id="polygon632" />
+            </g>
+            <g
+               id="g642"
+               class="Panel">
+              <line
+                 x1="556.27551"
+                 x2="518.76239"
+                 y1="1167.8146"
+                 y2="1167.8146"
+                 id="line636" />
+              <line
+                 x1="556.27551"
+                 x2="556.27551"
+                 y1="1183.8146"
+                 y2="1151.8146"
+                 id="line638" />
+              <line
+                 x1="518.76239"
+                 x2="518.76239"
+                 y1="1183.8146"
+                 y2="1151.8146"
+                 id="line640" />
+            </g>
+          </g>
+          <g
+             id="g660"
+             fill="#f0f0ff"
+             stroke="#000000"
+             style="fill-opacity:1;stroke-width:1;stroke-opacity:1"
+             class="Window Regular">
+            <polygon
+               points="702.95,1183.81 702.95,1151.81 964.19,1151.81 964.19,1183.81 "
+               id="polygon646" />
+            <g
+               id="g650"
+               class="Glass">
+              <polygon
+                 points="702.95,1183.81 702.95,1151.81 964.19,1151.81 964.19,1183.81 "
+                 id="polygon648" />
+            </g>
+            <g
+               id="g658"
+               class="Panel">
+              <line
+                 x1="956.69464"
+                 x2="710.45093"
+                 y1="1167.8146"
+                 y2="1167.8146"
+                 id="line652" />
+              <line
+                 x1="956.69464"
+                 x2="956.69464"
+                 y1="1183.8146"
+                 y2="1151.8146"
+                 id="line654" />
+              <line
+                 x1="710.45093"
+                 x2="710.45093"
+                 y1="1183.8146"
+                 y2="1151.8146"
+                 id="line656" />
+            </g>
+          </g>
+          <g
+             id="g676"
+             fill="#ffffff"
+             stroke="#000000"
+             style="fill-opacity:1;stroke-width:1;stroke-opacity:1"
+             class="Door Swing Beside">
+            <polygon
+               points="411.13,1183.81 411.13,1151.81 488.46,1151.81 488.46,1183.81 "
+               id="polygon662" />
+            <g
+               id="g666"
+               class="Threshold">
+              <polygon
+                 points="411.13,1183.81 411.13,1151.81 488.46,1151.81 488.46,1183.81 "
+                 id="polygon664" />
+            </g>
+            <g
+               id="g674"
+               fill="none"
+               class="Panel Right Negative">
+              <g
+                 id="g670"
+                 fill="none"
+                 stroke="none"
+                 class="PanelArea">
+                <polygon
+                   points="411.13,1183.81 411.13,1151.81 488.46,1151.81 488.46,1183.81 "
+                   id="polygon668" />
+              </g>
+              <path
+                 d="m 411.13,1183.81 q 0,77.33 77.33,77.33 v -77.33 z"
+                 id="path672" />
+            </g>
+          </g>
+          <polygon
+             points="1076.21,1183.81 69.18,1183.81 101.18,1151.81 1057.21,1151.81 "
+             id="polygon612-0"
+             style="fill-opacity:1;stroke-width:0.2;stroke-opacity:1"
+             transform="matrix(0.03239647,0,0,1.3509808,66.938812,-415.49457)" />
+        </g>
+        <g
+           id="g714"
+           fill="#000000"
+           stroke="#000000"
+           style="fill-opacity:1;stroke-width:0.2;stroke-opacity:1"
+           class="Wall External">
+          <polygon
+             points="69.18,293.66 101.18,318.66 101.18,1151.81 69.18,1183.81 "
+             id="polygon680"
+             transform="matrix(1,0,0,1.1333838,0,-39.169493)" />
+          <g
+             id="g696"
+             fill="#f0f0ff"
+             stroke="#000000"
+             style="fill-opacity:1;stroke-width:1;stroke-opacity:1"
+             class="Window Regular">
+            <polygon
+               points="69.18,697.74 69.18,618.48 101.18,618.48 101.18,697.74 "
+               id="polygon682" />
+            <g
+               id="g686"
+               class="Glass">
+              <polygon
+                 points="69.18,697.74 69.18,618.48 101.18,618.48 101.18,697.74 "
+                 id="polygon684" />
+            </g>
+            <g
+               id="g694"
+               class="Panel">
+              <line
+                 x1="85.178474"
+                 x2="85.178474"
+                 y1="690.23553"
+                 y2="625.97986"
+                 id="line688" />
+              <line
+                 x1="69.178474"
+                 x2="101.17847"
+                 y1="690.23553"
+                 y2="690.23553"
+                 id="line690" />
+              <line
+                 x1="69.178474"
+                 x2="101.17847"
+                 y1="625.97986"
+                 y2="625.97986"
+                 id="line692" />
+            </g>
+          </g>
+          <g
+             id="g712"
+             fill="#f0f0ff"
+             stroke="#000000"
+             style="fill-opacity:1;stroke-width:1;stroke-opacity:1"
+             class="Window Regular">
+            <polygon
+               points="69.18,789.91 69.18,710.66 101.18,710.66 101.18,789.91 "
+               id="polygon698" />
+            <g
+               id="g702"
+               class="Glass">
+              <polygon
+                 points="69.18,789.91 69.18,710.66 101.18,710.66 101.18,789.91 "
+                 id="polygon700" />
+            </g>
+            <g
+               id="g710"
+               class="Panel">
+              <line
+                 x1="85.178474"
+                 x2="85.178474"
+                 y1="782.41333"
+                 y2="718.15765"
+                 id="line704" />
+              <line
+                 x1="69.178474"
+                 x2="101.17847"
+                 y1="782.41333"
+                 y2="782.41333"
+                 id="line706" />
+              <line
+                 x1="69.178474"
+                 x2="101.17847"
+                 y1="718.15765"
+                 y2="718.15765"
+                 id="line708" />
+            </g>
+          </g>
+          <polygon
+             points="101.18,1151.81 69.18,1183.81 69.18,293.66 101.18,318.66 "
+             id="polygon680-5"
+             transform="matrix(0,1.1884119,-0.02163874,0,1082.6839,1182.4156)"
+             style="fill-opacity:1;stroke-width:0.2;stroke-opacity:1" />
+        </g>
+        <g
+           id="g782"
+           fill="#000000"
+           stroke="#000000"
+           style="fill-opacity:1;stroke-width:0.2;stroke-opacity:1"
+           class="Wall">
+          <polygon
+             points="69.18,709.16 1076.21,709.16 1076.21,697.16 69.18,697.16 "
+             id="polygon716" />
+          <g
+             id="g732"
+             fill="#ffffff"
+             stroke="#000000"
+             style="fill-opacity:1;stroke-width:1;stroke-opacity:1"
+             class="Door Swing Beside">
+            <polygon
+               points="408.23,709.16 479.18,709.16 479.18,697.16 408.23,697.16 "
+               id="polygon718" />
+            <g
+               id="g722"
+               class="Threshold">
+              <polygon
+                 points="408.23,709.16 479.18,709.16 479.18,697.16 408.23,697.16 "
+                 id="polygon720" />
+            </g>
+            <g
+               id="g730"
+               fill="none"
+               class="Panel Right Positive">
+              <g
+                 id="g726"
+                 fill="none"
+                 stroke="none"
+                 class="PanelArea">
+                <polygon
+                   points="408.23,709.16 479.18,709.16 479.18,697.16 408.23,697.16 "
+                   id="polygon724" />
+              </g>
+              <path
+                 d="m 408.23,697.16 q 0,-70.95 70.95,-70.95 v 70.95 z"
+                 id="path728" />
+            </g>
+          </g>
+          <g
+             id="g748"
+             fill="#ffffff"
+             stroke="#000000"
+             style="fill-opacity:1;stroke-width:1;stroke-opacity:1"
+             class="Door Swing Beside">
+            <polygon
+               points="504.77,709.16 576.29,709.16 576.29,697.16 504.77,697.16 "
+               id="polygon734" />
+            <g
+               id="g738"
+               class="Threshold">
+              <polygon
+                 points="504.77,709.16 576.29,709.16 576.29,697.16 504.77,697.16 "
+                 id="polygon736" />
+            </g>
+            <g
+               id="g746"
+               fill="none"
+               class="Panel Left Positive">
+              <g
+                 id="g742"
+                 fill="none"
+                 stroke="none"
+                 class="PanelArea">
+                <polygon
+                   points="504.77,709.16 576.29,709.16 576.29,697.16 504.77,697.16 "
+                   id="polygon740" />
+              </g>
+              <path
+                 d="m 576.29,697.16 q 0,-71.53 -71.53,-71.53 v 71.53 z"
+                 id="path744" />
+            </g>
+          </g>
+          <g
+             id="g764"
+             fill="#ffffff"
+             stroke="#000000"
+             style="fill-opacity:1;stroke-width:1;stroke-opacity:1"
+             class="Door Swing Beside">
+            <polygon
+               points="810.15,709.16 887.81,709.16 887.81,697.16 810.15,697.16 "
+               id="polygon750" />
+            <g
+               id="g754"
+               class="Threshold">
+              <polygon
+                 points="810.15,709.16 887.81,709.16 887.81,697.16 810.15,697.16 "
+                 id="polygon752" />
+            </g>
+            <g
+               id="g762"
+               fill="none"
+               class="Panel Left Positive">
+              <g
+                 id="g758"
+                 fill="none"
+                 stroke="none"
+                 class="PanelArea">
+                <polygon
+                   points="810.15,709.16 887.81,709.16 887.81,697.16 810.15,697.16 "
+                   id="polygon756" />
+              </g>
+              <path
+                 d="m 887.81,697.16 q 0,-77.66 -77.66,-77.66 v 77.66 z"
+                 id="path760" />
+            </g>
+          </g>
+          <g
+             id="g780"
+             fill="#ffffff"
+             stroke="#000000"
+             style="fill-opacity:1;stroke-width:1;stroke-opacity:1"
+             class="Door Swing Beside"
+             transform="rotate(-90,208.96399,653.42095)">
+            <polygon
+               points="248.41,697.16 185.57,697.16 185.57,709.16 248.41,709.16 "
+               id="polygon766" />
+            <g
+               id="g770"
+               class="Threshold">
+              <polygon
+                 points="248.41,697.16 185.57,697.16 185.57,709.16 248.41,709.16 "
+                 id="polygon768" />
+            </g>
+            <g
+               id="g778"
+               fill="none"
+               class="Panel Right Positive">
+              <g
+                 id="g774"
+                 fill="none"
+                 stroke="none"
+                 class="PanelArea">
+                <polygon
+                   points="248.41,697.16 185.57,697.16 185.57,709.16 248.41,709.16 "
+                   id="polygon772" />
+              </g>
+              <path
+                 d="m 185.57,697.16 q 0,-62.83 62.83,-62.83 v 62.83 z"
+                 id="path776" />
+            </g>
+          </g>
+        </g>
+        <g
+           id="g786"
+           fill="#000000"
+           stroke="#000000"
+           style="fill-opacity:1;stroke-width:0.2;stroke-opacity:1"
+           class="Wall">
+          <polygon
+             points="806.3,293.66 806.3,709.16 794.3,709.16 794.3,293.66 "
+             id="polygon784" />
+        </g>
+        <g
+           id="g790"
+           fill="#000000"
+           stroke="#000000"
+           style="fill-opacity:1;stroke-width:0.2;stroke-opacity:1"
+           class="Wall">
+          <polygon
+             points="496.35,293.66 496.35,709.16 484.35,709.16 484.35,293.66 "
+             id="polygon788" />
+        </g>
+        <g
+           id="g850"
+           fill="#000000"
+           stroke="#000000"
+           style="fill-opacity:1;stroke-width:0.2;stroke-opacity:1"
+           class="Wall">
+          <polygon
+             points="401.88,1183.81 390.88,1183.81 390.88,697.16 401.88,697.16 "
+             id="polygon816"
+             transform="matrix(1,0,0,1.1809514,0,-126.15208)" />
+          <g
+             id="g848"
+             fill="#ffffff"
+             stroke="#000000"
+             style="fill-opacity:1;stroke-width:1;stroke-opacity:1"
+             class="Door Swing Beside">
+            <polygon
+               points="401.88,731.6 401.88,795.46 390.88,795.46 390.88,731.6 "
+               id="polygon834" />
+            <g
+               id="g838"
+               class="Threshold">
+              <polygon
+                 points="401.88,731.6 401.88,795.46 390.88,795.46 390.88,731.6 "
+                 id="polygon836" />
+            </g>
+            <g
+               id="g846"
+               fill="none"
+               class="Panel Left Negative">
+              <g
+                 id="g842"
+                 fill="none"
+                 stroke="none"
+                 class="PanelArea">
+                <polygon
+                   points="401.88,731.6 401.88,795.46 390.88,795.46 390.88,731.6 "
+                   id="polygon840" />
+              </g>
+              <path
+                 d="m 401.88,731.6 q 63.86,0 63.86,63.86 h -63.86 z"
+                 id="path844" />
+            </g>
+          </g>
+        </g>
+        <g
+           id="g890"
+           fill="#000000"
+           stroke="#000000"
+           style="fill-opacity:1;stroke-width:0.2;stroke-opacity:1"
+           class="Wall"
+           transform="translate(0,118.56079)">
+          <polygon
+             points="616.91,1031.75 390.88,1031.75 390.88,1022.75 625.91,1022.75 "
+             id="polygon856" />
+          <g
+             id="g872"
+             fill="#ffffff"
+             stroke="#000000"
+             style="fill-opacity:1;stroke-width:1;stroke-opacity:1"
+             class="Door Swing Beside">
+            <polygon
+               points="568.18,1031.75 512.23,1031.75 512.23,1022.75 568.18,1022.75 "
+               id="polygon858" />
+            <g
+               id="g862"
+               class="Threshold">
+              <polygon
+                 points="568.18,1031.75 512.23,1031.75 512.23,1022.75 568.18,1022.75 "
+                 id="polygon860" />
+            </g>
+            <g
+               id="g870"
+               fill="none"
+               class="Panel Left Negative">
+              <g
+                 id="g866"
+                 fill="none"
+                 stroke="none"
+                 class="PanelArea">
+                <polygon
+                   points="568.18,1031.75 512.23,1031.75 512.23,1022.75 568.18,1022.75 "
+                   id="polygon864" />
+              </g>
+              <path
+                 d="m 512.23,1022.75 q 0,-55.95 55.95,-55.95 v 55.95 z"
+                 id="path868" />
+            </g>
+          </g>
+          <g
+             id="g888"
+             fill="#ffffff"
+             stroke="#000000"
+             style="fill-opacity:1;stroke-width:1;stroke-opacity:1"
+             class="Door Swing Beside">
+            <polygon
+               points="490.95,1031.75 413.11,1031.75 413.11,1022.75 490.95,1022.75 "
+               id="polygon874" />
+            <g
+               id="g878"
+               class="Threshold">
+              <polygon
+                 points="490.95,1031.75 413.11,1031.75 413.11,1022.75 490.95,1022.75 "
+                 id="polygon876" />
+            </g>
+            <g
+               id="g886"
+               fill="none"
+               class="Panel Right Positive">
+              <g
+                 id="g882"
+                 fill="none"
+                 stroke="none"
+                 class="PanelArea">
+                <polygon
+                   points="490.95,1031.75 413.11,1031.75 413.11,1022.75 490.95,1022.75 "
+                   id="polygon880" />
+              </g>
+              <path
+                 d="m 413.11,1031.75 q 0,77.84 77.84,77.84 v -77.84 z"
+                 id="path884" />
+            </g>
+          </g>
+        </g>
+        <g
+           id="g894"
+           fill="#000000"
+           stroke="#000000"
+           style="fill-opacity:1;stroke-width:0.2;stroke-opacity:1"
+           class="Wall"
+           transform="translate(0,118.56079)">
+          <polygon
+             points="616.91,1183.81 616.91,1031.75 625.91,1022.75 625.91,1183.81 "
+             id="polygon892" />
+        </g>
+        <g
+           id="g898"
+           fill="#000000"
+           stroke="#000000"
+           style="fill-opacity:1;stroke-width:0.2;stroke-opacity:1"
+           class="Wall"
+           transform="translate(0,118.56079)">
+          <polygon
+             points="498,1183.81 498,1022.75 507,1022.75 507,1183.81 "
+             id="polygon896" />
+        </g>
+        <g
+           fill="#0000ff"
+           stroke="#0000ff"
+           style="display:none"
+           class="SelectionControls"
+           id="g1706">
+          <g
+             style="display:none"
+             class="rotateControl"
+             id="g1660">
+            <circle
+               cx="836.02106"
+               cy="874.16412"
+               r="5"
+               style="fill-opacity:0.5;stroke:none"
+               id="circle1658" />
+          </g>
+          <g
+             style="display:none"
+             class="ResizeNControl"
+             id="g1664">
+            <circle
+               cx="0"
+               cy="0"
+               r="5"
+               style="fill-opacity:0.5;stroke:none"
+               id="circle1662" />
+          </g>
+          <g
+             style="display:none"
+             class="ResizeNEControl"
+             id="g1668">
+            <circle
+               cx="0"
+               cy="0"
+               r="5"
+               style="fill-opacity:0.5;stroke:none"
+               id="circle1666" />
+          </g>
+          <g
+             style="display:none"
+             class="ResizeEControl"
+             id="g1672">
+            <circle
+               cx="0"
+               cy="0"
+               r="5"
+               style="fill-opacity:0.5;stroke:none"
+               id="circle1670" />
+          </g>
+          <g
+             style="display:none"
+             class="ResizeSEControl"
+             id="g1676">
+            <circle
+               cx="0"
+               cy="0"
+               r="5"
+               style="fill-opacity:0.5;stroke:none"
+               id="circle1674" />
+          </g>
+          <g
+             style="display:none"
+             class="ResizeSControl"
+             id="g1680">
+            <circle
+               cx="0"
+               cy="0"
+               r="5"
+               style="fill-opacity:0.5;stroke:none"
+               id="circle1678" />
+          </g>
+          <g
+             style="display:none"
+             class="ResizeSWControl"
+             id="g1684">
+            <circle
+               cx="0"
+               cy="0"
+               r="5"
+               style="fill-opacity:0.5;stroke:none"
+               id="circle1682" />
+          </g>
+          <g
+             style="display:none"
+             class="ResizeWControl"
+             id="g1688">
+            <circle
+               cx="0"
+               cy="0"
+               r="5"
+               style="fill-opacity:0.5;stroke:none"
+               id="circle1686" />
+          </g>
+          <g
+             style="display:none"
+             class="ResizeNWControl"
+             id="g1692">
+            <circle
+               cx="0"
+               cy="0"
+               r="5"
+               style="fill-opacity:0.5;stroke:none"
+               id="circle1690" />
+          </g>
+          <g
+             style="display:none"
+             class="removeControl"
+             id="g1696">
+            <polygon
+               style="fill-opacity:0.1;stroke:none"
+               points="809.73,904.16 862.31,904.16 862.31,943.91 809.73,943.91 "
+               id="polygon1694" />
+          </g>
+          <g
+             style="display:none"
+             class="copyPasteControl"
+             id="g1700">
+            <polygon
+               style="fill-opacity:0.1;stroke:none"
+               id="polygon1698" />
+          </g>
+          <g
+             style="display:none"
+             class="translateControl"
+             id="g1704">
+            <polygon
+               style="fill-opacity:0.1;stroke:none"
+               points="809.73,904.16 862.31,904.16 862.31,943.91 809.73,943.91 "
+               id="polygon1702" />
+          </g>
+        </g>
+        <g
+           fill="#0000ff"
+           stroke="#0000ff"
+           style="display:none"
+           class="SelectionControls"
+           id="g1758">
+          <polygon
+             fill="none"
+             stroke="#0000ff"
+             points="625.88,709.16 1057.21,709.16 1057.21,1151.81 625.88,1151.81 "
+             id="polygon1708" />
+          <g
+             style="display:none"
+             class="rotateControl"
+             id="g1712">
+            <circle
+               cx="841.54407"
+               cy="679.16492"
+               r="5"
+               style="fill-opacity:0.5;stroke:none"
+               id="circle1710" />
+          </g>
+          <g
+             style="display:none"
+             class="ResizeNControl"
+             id="g1716">
+            <circle
+               cx="0"
+               cy="0"
+               r="5"
+               style="fill-opacity:0.5;stroke:none"
+               id="circle1714" />
+          </g>
+          <g
+             style="display:none"
+             class="ResizeNEControl"
+             id="g1720">
+            <circle
+               cx="0"
+               cy="0"
+               r="5"
+               style="fill-opacity:0.5;stroke:none"
+               id="circle1718" />
+          </g>
+          <g
+             style="display:none"
+             class="ResizeEControl"
+             id="g1724">
+            <circle
+               cx="0"
+               cy="0"
+               r="5"
+               style="fill-opacity:0.5;stroke:none"
+               id="circle1722" />
+          </g>
+          <g
+             style="display:none"
+             class="ResizeSEControl"
+             id="g1728">
+            <circle
+               cx="0"
+               cy="0"
+               r="5"
+               style="fill-opacity:0.5;stroke:none"
+               id="circle1726" />
+          </g>
+          <g
+             style="display:none"
+             class="ResizeSControl"
+             id="g1732">
+            <circle
+               cx="0"
+               cy="0"
+               r="5"
+               style="fill-opacity:0.5;stroke:none"
+               id="circle1730" />
+          </g>
+          <g
+             style="display:none"
+             class="ResizeSWControl"
+             id="g1736">
+            <circle
+               cx="0"
+               cy="0"
+               r="5"
+               style="fill-opacity:0.5;stroke:none"
+               id="circle1734" />
+          </g>
+          <g
+             style="display:none"
+             class="ResizeWControl"
+             id="g1740">
+            <circle
+               cx="0"
+               cy="0"
+               r="5"
+               style="fill-opacity:0.5;stroke:none"
+               id="circle1738" />
+          </g>
+          <g
+             style="display:none"
+             class="ResizeNWControl"
+             id="g1744">
+            <circle
+               cx="0"
+               cy="0"
+               r="5"
+               style="fill-opacity:0.5;stroke:none"
+               id="circle1742" />
+          </g>
+          <g
+             style="display:none"
+             class="removeControl"
+             id="g1748">
+            <polygon
+               style="fill-opacity:0.1;stroke:none"
+               id="polygon1746" />
+          </g>
+          <g
+             style="display:none"
+             class="copyPasteControl"
+             id="g1752">
+            <polygon
+               style="fill-opacity:0.1;stroke:none"
+               id="polygon1750" />
+          </g>
+          <g
+             style="display:none"
+             class="translateControl"
+             id="g1756">
+            <polygon
+               style="fill-opacity:0.1;stroke:none"
+               id="polygon1754" />
+          </g>
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke-width:0.999999;stroke-opacity:1"
+           x="132.24886"
+           y="533.80621"
+           id="text10988-1"><tspan
+             sodipodi:role="line"
+             id="tspan10986-9"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999999"
+             x="132.24886"
+             y="533.80621">BATH</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;fill-opacity:1;stroke-width:0.999999;stroke-opacity:1"
+           x="-221.52278"
+           y="-476.62399"
+           id="text10988-9-1"
+           transform="scale(-1)"><tspan
+             sodipodi:role="line"
+             id="tspan10986-2-4"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999999"
+             x="-221.52278"
+             y="-476.62399">BATH</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke-width:0.999999;stroke-opacity:1"
+           x="533.271"
+           y="1242.6781"
+           id="text10988-1-9"><tspan
+             sodipodi:role="line"
+             id="tspan10986-9-0"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999999"
+             x="533.271"
+             y="1242.6781">WC</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;fill-opacity:1;stroke-width:0.999999;stroke-opacity:1"
+           x="-589.83313"
+           y="-1186.7074"
+           id="text10988-9-1-5"
+           transform="scale(-1)"><tspan
+             sodipodi:role="line"
+             id="tspan10986-2-4-7"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999999"
+             x="-589.83313"
+             y="-1186.7074">WC</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke-width:0.999999;stroke-opacity:1"
+           x="301.45459"
+           y="530.83826"
+           id="text10988-1-1"><tspan
+             sodipodi:role="line"
+             id="tspan10986-9-6"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999999"
+             x="301.45459"
+             y="530.83826">KITCHEN</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;fill-opacity:1;stroke-width:0.999999;stroke-opacity:1"
+           x="-445.92426"
+           y="-476.32687"
+           id="text10988-9-1-8"
+           transform="scale(-1)"><tspan
+             sodipodi:role="line"
+             id="tspan10986-2-4-1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999999"
+             x="-445.92426"
+             y="-476.32687">KITCHEN</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;stroke-width:0.999999"
+           x="622.93268"
+           y="524.72565"
+           id="text21064"><tspan
+             sodipodi:role="line"
+             id="tspan21062"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999999"
+             x="622.93268"
+             y="524.72565">A</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;stroke-width:0.999999"
+           x="905.73273"
+           y="514.32861"
+           id="text23114"><tspan
+             sodipodi:role="line"
+             id="tspan23112"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999999"
+             x="905.73273"
+             y="514.32861">B</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;stroke-width:0.999999"
+           x="718.56219"
+           y="904.07788"
+           id="text23114-4"><tspan
+             sodipodi:role="line"
+             id="tspan23112-0"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999999"
+             x="718.56219"
+             y="904.07788">C</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;stroke-width:0.999999"
+           x="220.52519"
+           y="1018.2929"
+           id="text23114-0"><tspan
+             sodipodi:role="line"
+             id="tspan23112-1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999999"
+             x="220.52519"
+             y="1018.2929">E</tspan></text>
+        <g
+           id="g850-7"
+           fill="#000000"
+           stroke="#000000"
+           style="fill-opacity:1;stroke-width:0.2;stroke-opacity:1"
+           class="Wall"
+           transform="rotate(-90,631.16352,825.74988)">
+          <polygon
+             points="390.88,1183.81 390.88,697.16 401.88,697.16 401.88,1183.81 "
+             id="polygon816-4"
+             transform="matrix(1.0021429,0,0,0.93703035,-0.84941923,162.61781)" />
+          <g
+             id="g848-6"
+             fill="#ffffff"
+             stroke="#000000"
+             style="fill-opacity:1;stroke-width:1;stroke-opacity:1"
+             class="Door Swing Beside"
+             transform="rotate(180,396.48689,816.21663)">
+            <polygon
+               points="401.88,795.46 390.88,795.46 390.88,731.6 401.88,731.6 "
+               id="polygon834-7" />
+            <g
+               id="g838-3"
+               class="Threshold">
+              <polygon
+                 points="401.88,795.46 390.88,795.46 390.88,731.6 401.88,731.6 "
+                 id="polygon836-1" />
+            </g>
+            <g
+               id="g846-8"
+               fill="none"
+               class="Panel Left Negative">
+              <g
+                 id="g842-8"
+                 fill="none"
+                 stroke="none"
+                 class="PanelArea">
+                <polygon
+                   points="401.88,795.46 390.88,795.46 390.88,731.6 401.88,731.6 "
+                   id="polygon840-2" />
+              </g>
+              <path
+                 d="m 401.88,731.6 q 63.86,0 63.86,63.86 h -63.86 z"
+                 id="path844-6" />
+            </g>
+          </g>
+          <polygon
+             points="390.88,697.16 401.88,697.16 401.88,1183.81 390.88,1183.81 "
+             id="polygon816-4-5"
+             transform="matrix(0,0.84299814,-0.44568826,0,712.64823,481.97381)"
+             style="fill-opacity:1;stroke-width:0.2;stroke-opacity:1" />
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;stroke-width:0.999999"
+           x="804.15179"
+           y="1192.2314"
+           id="text23114-0-1"><tspan
+             sodipodi:role="line"
+             id="tspan23112-1-6"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999999"
+             x="804.15179"
+             y="1192.2314">D</tspan></text>
+        <g
+           id="g786-6"
+           fill="#000000"
+           stroke="#000000"
+           style="fill-opacity:1;stroke-width:0.2;stroke-opacity:1"
+           class="Wall"
+           transform="matrix(1.4937628,0,0,0.06981603,-129.2,273.11993)">
+          <polygon
+             points="806.3,709.16 794.3,709.16 794.3,293.66 806.3,293.66 "
+             id="polygon784-2" />
+        </g>
+        <g
+           id="g786-6-5"
+           fill="#000000"
+           stroke="#000000"
+           style="fill-opacity:1;stroke-width:0.2;stroke-opacity:1"
+           class="Wall"
+           transform="matrix(2.4700242,0,0,0.06977157,-1890.5021,273.74661)">
+          <polygon
+             points="794.3,709.16 794.3,293.66 806.3,293.66 806.3,709.16 "
+             id="polygon784-2-7" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

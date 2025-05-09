@@ -1,0 +1,3064 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="841mm"
+   version="1.1"
+   width="1189mm"
+   id="temp"
+   viewBox="0 0 4493.8583 3178.5827"
+   sodipodi:docname="plan0_env.svg"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   inkscape:export-filename="C:\Users\fimmohr\projects_local\_git\communaudictive\experiments\2023_AUD_APMR202301_triad_study\floor_plans\new\plan0_env.png"
+   inkscape:export-xdpi="150"
+   inkscape:export-ydpi="150">
+  <metadata
+     id="metadata1757">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview1755"
+     showgrid="false"
+     inkscape:zoom="0.17612091"
+     inkscape:cx="2431.2899"
+     inkscape:cy="1558.2498"
+     inkscape:window-x="1072"
+     inkscape:window-y="224"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1087"
+     inkscape:document-rotation="0"
+     units="mm" />
+  <desc
+     id="desc2">Powered by CubiCasa</desc>
+  <defs
+     id="defs4" />
+  <g
+     id="Model"
+     class="Model v1-1">
+    <g
+       class="Floor"
+       id="g1751">
+      <g
+         id="Floor-1"
+         class="Floorplan Floor-1">
+        <g
+           id="g1047"
+           class="Wall External"
+           fill="#000000"
+           stroke="#000000"
+           style="fill-opacity:1;stroke-width:0.2;stroke-opacity:1">
+          <g
+             id="g601"
+             transform="matrix(1,0,0,1.0035916,45.42334,-0.03205106)">
+            <path
+               style="fill:none;fill-opacity:1;stroke:#828282;stroke-width:688.024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+               d="M 3977.359,3170.7099 V 8.9239227"
+               id="path875"
+               inkscape:export-filename="C:\Users\fimmohr\projects_local\_git\communaudictive\experiments\2022_AUD_APMR202201_initial_study\floor_plans\exports\With Labels and Env\plan0_4bed_env.png"
+               inkscape:export-xdpi="150.00378"
+               inkscape:export-ydpi="150.00378" />
+            <path
+               style="fill:none;stroke:#ffffff;stroke-width:30.0894;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:240.714, 240.714;stroke-dashoffset:0;stroke-opacity:1"
+               d="M 3977.359,3133.8734 V 66.579807"
+               id="path877"
+               inkscape:export-filename="C:\Users\fimmohr\projects_local\_git\communaudictive\experiments\2022_AUD_APMR202201_initial_study\floor_plans\exports\With Labels and Env\plan0_4bed_env.png"
+               inkscape:export-xdpi="150.00378"
+               inkscape:export-ydpi="150.00378" />
+            <path
+               style="fill:none;stroke:#dcdcdc;stroke-width:45.7087;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m 3976.9496,31.948334 h 339.3193 V 56.385208 3170.3211"
+               id="path881"
+               inkscape:export-filename="C:\Users\fimmohr\projects_local\_git\communaudictive\experiments\2022_AUD_APMR202201_initial_study\floor_plans\exports\With Labels and Env\plan0_4bed_env.png"
+               inkscape:export-xdpi="150.00378"
+               inkscape:export-ydpi="150.00378" />
+            <path
+               style="fill:none;stroke:#dcdcdc;stroke-width:45.8217;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="M 3638.8538,3169.4277 V 12.767643"
+               id="path887"
+               inkscape:export-filename="C:\Users\fimmohr\projects_local\_git\communaudictive\experiments\2022_AUD_APMR202201_initial_study\floor_plans\exports\With Labels and Env\plan0_4bed_env.png"
+               inkscape:export-xdpi="150.00378"
+               inkscape:export-ydpi="150.00378" />
+            <path
+               style="fill:none;stroke:#dcdcdc;stroke-width:47.3659;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="M 4338.2304,32.656716 H 3616.097"
+               id="path889-5"
+               inkscape:export-filename="C:\Users\fimmohr\projects_local\_git\communaudictive\experiments\2022_AUD_APMR202201_initial_study\floor_plans\exports\With Labels and Env\plan0_4bed_env.png"
+               inkscape:export-xdpi="150.00378"
+               inkscape:export-ydpi="150.00378" />
+          </g>
+        </g>
+        <g
+           id="g1192"
+           transform="matrix(1.0201817,0,0,1.0201817,-54.444096,-29.48707)">
+          <g
+             id="84706764-abf4-4e60-bf19-b306950d8b2e"
+             class="Space Bath"
+             fill="#ffffff"
+             stroke="#ffffff"
+             style="fill-opacity:1;stroke-width:0.2;stroke-opacity:1"
+             transform="matrix(1.8767865,0,0,1.8767865,608.20201,-47.67965)">
+            <polygon
+               points="1103.72,745.3 1103.72,905.41 1000.26,905.41 1000.26,745.3 "
+               id="polygon6" />
+            <g
+               transform="translate(1000.2559,745.2983)"
+               class="Dimension"
+               id="g32">
+              <g
+                 style="display:none"
+                 class="Visual"
+                 id="g20">
+                <g
+                   id="mark1"
+                   fill="#000000"
+                   stroke="none"
+                   transform="translate(51.7331)"
+                   style="fill-opacity:1"
+                   class="DimensionMark">
+                  <polygon
+                     points="0,0 5,5 -5,5 "
+                     id="polygon8" />
+                </g>
+                <g
+                   id="mark2"
+                   fill="#000000"
+                   stroke="none"
+                   transform="translate(103.4662,80.0551)"
+                   style="fill-opacity:1"
+                   class="DimensionMark">
+                  <polygon
+                     points="0,0 -5,5 -5,-5 "
+                     id="polygon11" />
+                </g>
+                <g
+                   id="mark3"
+                   fill="#000000"
+                   stroke="none"
+                   transform="translate(51.7331,160.1102)"
+                   style="fill-opacity:1"
+                   class="DimensionMark">
+                  <polygon
+                     points="0,0 5,-5 -5,-5 "
+                     id="polygon14" />
+                </g>
+                <g
+                   id="mark4"
+                   fill="#000000"
+                   stroke="none"
+                   transform="translate(0,80.0551)"
+                   style="fill-opacity:1"
+                   class="DimensionMark">
+                  <polygon
+                     points="0,0 5,-5 5,5 "
+                     id="polygon17" />
+                </g>
+              </g>
+              <g
+                 transform="translate(7.239,57.88)"
+                 class="SpaceDimensionsLabel"
+                 id="g30">
+                <g
+                   id="NameLabel"
+                   style="display:none"
+                   class="TextLabel NameLabel">
+                  <text
+                     x="0"
+                     y="0em"
+                     fill="#000000"
+                     stroke="none"
+                     style="font-size:33px;font-family:Verdana;fill-opacity:1"
+                     id="text22">WC</text>
+                </g>
+                <g
+                   id="DimensionMeasureLabel"
+                   transform="translate(-112.1797,80.0938)"
+                   style="display:none"
+                   class="TextLabel DimensionMeasureLabel">
+                  <text
+                     x="52.679688"
+                     y="-1.2em"
+                     fill="#000000"
+                     stroke="none"
+                     style="font-size:33px;font-family:Verdana;fill-opacity:1"
+                     id="text25">3'5&quot; x 5'3&quot;</text>
+                  <text
+                     x="0"
+                     y="0em"
+                     fill="#000000"
+                     stroke="none"
+                     style="font-size:33px;font-family:Verdana;fill-opacity:1"
+                     id="text27">1.03 m x 1.60 m</text>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g
+             id="47d106b3-640c-41f1-b003-4de57a48bf93"
+             class="Space DraughtLobby"
+             fill="#ffffff"
+             stroke="#ffffff"
+             style="fill-opacity:1;stroke-width:0.2;stroke-opacity:1"
+             transform="matrix(1.8767865,0,0,1.8767865,608.20201,-47.67965)">
+            <polygon
+               points="990.26,745.3 990.26,905.41 812.87,905.41 812.87,745.3 "
+               id="polygon35" />
+            <g
+               transform="translate(812.8719,745.2983)"
+               class="Dimension"
+               id="g67">
+              <g
+                 style="display:none"
+                 class="Visual"
+                 id="g53">
+                <g
+                   id="g39"
+                   fill="#000000"
+                   stroke="none"
+                   transform="translate(88.692)"
+                   style="fill-opacity:1"
+                   class="DimensionMark">
+                  <polygon
+                     points="0,0 5,5 -5,5 "
+                     id="polygon37" />
+                </g>
+                <g
+                   id="g43"
+                   fill="#000000"
+                   stroke="none"
+                   transform="translate(177.3839,80.0551)"
+                   style="fill-opacity:1"
+                   class="DimensionMark">
+                  <polygon
+                     points="0,0 -5,5 -5,-5 "
+                     id="polygon41" />
+                </g>
+                <g
+                   id="g47"
+                   fill="#000000"
+                   stroke="none"
+                   transform="translate(88.692,160.1102)"
+                   style="fill-opacity:1"
+                   class="DimensionMark">
+                  <polygon
+                     points="0,0 5,-5 -5,-5 "
+                     id="polygon45" />
+                </g>
+                <g
+                   id="g51"
+                   fill="#000000"
+                   stroke="none"
+                   transform="translate(0,80.0551)"
+                   style="fill-opacity:1"
+                   class="DimensionMark">
+                  <polygon
+                     points="0,0 5,-5 5,5 "
+                     id="polygon49" />
+                </g>
+              </g>
+              <g
+                 transform="translate(65.3355,132.8526)"
+                 class="SpaceDimensionsLabel"
+                 id="g65">
+                <g
+                   id="g57"
+                   style="display:none"
+                   class="TextLabel NameLabel">
+                  <text
+                     x="0"
+                     y="0em"
+                     fill="#000000"
+                     stroke="none"
+                     style="font-size:33px;font-family:Verdana;fill-opacity:1"
+                     id="text55">TK</text>
+                </g>
+                <g
+                   id="g63"
+                   transform="translate(-118.5938,80.0938)"
+                   style="display:none"
+                   class="TextLabel DimensionMeasureLabel">
+                  <text
+                     x="42.1875"
+                     y="-1.2em"
+                     fill="#000000"
+                     stroke="none"
+                     style="font-size:33px;font-family:Verdana;fill-opacity:1"
+                     id="text59">5'10&quot; x 5'3&quot;</text>
+                  <text
+                     x="0"
+                     y="0em"
+                     fill="#000000"
+                     stroke="none"
+                     style="font-size:33px;font-family:Verdana;fill-opacity:1"
+                     id="text61">1.77 m x 1.60 m</text>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g
+             id="976dc0aa-ab3a-4686-a2b8-5ae67f567c34"
+             class="Space Undefined"
+             fill="#ffffff"
+             stroke="#ffffff"
+             style="fill-opacity:1;stroke-width:0.2;stroke-opacity:1"
+             transform="matrix(1.8767865,0,0,1.8767865,608.20201,-47.67965)">
+            <polygon
+               points="1527.55,745.3 1527.55,905.41 1334.6,905.41 1334.6,745.3 "
+               id="polygon70" />
+            <g
+               transform="translate(1334.603,745.2983)"
+               class="Dimension"
+               id="g102">
+              <g
+                 style="display:none"
+                 class="Visual"
+                 id="g88">
+                <g
+                   id="g74"
+                   fill="#000000"
+                   stroke="none"
+                   transform="translate(96.4734)"
+                   style="fill-opacity:1"
+                   class="DimensionMark">
+                  <polygon
+                     points="0,0 5,5 -5,5 "
+                     id="polygon72" />
+                </g>
+                <g
+                   id="g78"
+                   fill="#000000"
+                   stroke="none"
+                   transform="translate(192.9467,80.0551)"
+                   style="fill-opacity:1"
+                   class="DimensionMark">
+                  <polygon
+                     points="0,0 -5,5 -5,-5 "
+                     id="polygon76" />
+                </g>
+                <g
+                   id="g82"
+                   fill="#000000"
+                   stroke="none"
+                   transform="translate(96.4734,160.1102)"
+                   style="fill-opacity:1"
+                   class="DimensionMark">
+                  <polygon
+                     points="0,0 5,-5 -5,-5 "
+                     id="polygon80" />
+                </g>
+                <g
+                   id="g86"
+                   fill="#000000"
+                   stroke="none"
+                   transform="translate(0,80.0551)"
+                   style="fill-opacity:1"
+                   class="DimensionMark">
+                  <polygon
+                     points="0,0 5,-5 5,5 "
+                     id="polygon84" />
+                </g>
+              </g>
+              <g
+                 transform="translate(80.0551,80.0551)"
+                 class="SpaceDimensionsLabel"
+                 id="g100">
+                <g
+                   id="g92"
+                   style="display:none"
+                   class="TextLabel NameLabel">
+                  <text
+                     x="0"
+                     y="0em"
+                     fill="#000000"
+                     stroke="none"
+                     style="font-size:33px;font-family:Verdana;fill-opacity:1"
+                     id="text90">UNDEFINED</text>
+                </g>
+                <g
+                   id="g98"
+                   transform="translate(-40.5313,80.0938)"
+                   style="display:none"
+                   class="TextLabel DimensionMeasureLabel">
+                  <text
+                     x="52.679688"
+                     y="-1.2em"
+                     fill="#000000"
+                     stroke="none"
+                     style="font-size:33px;font-family:Verdana;fill-opacity:1"
+                     id="text94">6'4&quot; x 5'3&quot;</text>
+                  <text
+                     x="0"
+                     y="0em"
+                     fill="#000000"
+                     stroke="none"
+                     style="font-size:33px;font-family:Verdana;fill-opacity:1"
+                     id="text96">1.93 m x 1.60 m</text>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g
+             id="30f7ba22-dc2a-4a73-8146-9c884b9d41ae"
+             class="Space TechnicalRoom Boiler"
+             fill="#ffffff"
+             stroke="#ffffff"
+             style="fill-opacity:1;stroke-width:0.2;stroke-opacity:1"
+             transform="matrix(1.8767865,0,0,1.8767865,608.20201,-47.67965)">
+            <polygon
+               points="1515.81,919.47 1515.81,973.08 1527.55,973.08 1527.55,1067.26 1324.6,1067.26 1324.6,1010.25 1376.55,1010.25 1376.55,919.47 "
+               id="polygon105" />
+            <g
+               transform="translate(1324.603,919.4681)"
+               class="Dimension"
+               id="g137">
+              <g
+                 style="display:none"
+                 class="Visual"
+                 id="g123">
+                <g
+                   id="g109"
+                   fill="#000000"
+                   stroke="none"
+                   transform="translate(101.4734)"
+                   style="fill-opacity:1"
+                   class="DimensionMark">
+                  <polygon
+                     points="0,0 5,5 -5,5 "
+                     id="polygon107" />
+                </g>
+                <g
+                   id="g113"
+                   fill="#000000"
+                   stroke="none"
+                   transform="translate(202.9467,90.7856)"
+                   style="fill-opacity:1"
+                   class="DimensionMark">
+                  <polygon
+                     points="0,0 -5,5 -5,-5 "
+                     id="polygon111" />
+                </g>
+                <g
+                   id="g117"
+                   fill="#000000"
+                   stroke="none"
+                   transform="translate(101.4734,147.7914)"
+                   style="fill-opacity:1"
+                   class="DimensionMark">
+                  <polygon
+                     points="0,0 5,-5 -5,-5 "
+                     id="polygon115" />
+                </g>
+                <g
+                   id="g121"
+                   fill="#000000"
+                   stroke="none"
+                   transform="translate(0,90.7856)"
+                   style="fill-opacity:1"
+                   class="DimensionMark">
+                  <polygon
+                     points="0,0 5,-5 5,5 "
+                     id="polygon119" />
+                </g>
+              </g>
+              <g
+                 transform="translate(38.5744,131.1858)"
+                 class="SpaceDimensionsLabel"
+                 id="g135">
+                <g
+                   id="g127"
+                   style="display:none"
+                   class="TextLabel NameLabel">
+                  <text
+                     x="0"
+                     y="0em"
+                     fill="#000000"
+                     stroke="none"
+                     style="font-size:33px;font-family:Verdana;fill-opacity:1"
+                     id="text125">KATT.H</text>
+                </g>
+                <g
+                   id="g133"
+                   transform="translate(-78.5625,80.0938)"
+                   style="display:none"
+                   class="TextLabel DimensionMeasureLabel">
+                  <text
+                     x="42.1875"
+                     y="-1.2em"
+                     fill="#000000"
+                     stroke="none"
+                     style="font-size:33px;font-family:Verdana;fill-opacity:1"
+                     id="text129">6'8&quot; x 4'10&quot;</text>
+                  <text
+                     x="0"
+                     y="0em"
+                     fill="#000000"
+                     stroke="none"
+                     style="font-size:33px;font-family:Verdana;fill-opacity:1"
+                     id="text131">2.03 m x 1.48 m</text>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g
+             id="545e9824-6c1e-4327-8888-00f17aee0172"
+             class="Space DraughtLobby"
+             fill="#ffffff"
+             stroke="#ffffff"
+             style="fill-opacity:1;stroke-width:0.2;stroke-opacity:1"
+             transform="matrix(1.8767865,0,0,1.8767865,608.20201,-47.67965)">
+            <polygon
+               points="1204.92,1373.67 1204.92,1586.04 1000.26,1586.04 1000.26,1373.67 "
+               id="polygon140" />
+            <g
+               transform="translate(1000.2559,1373.6677)"
+               class="Dimension"
+               id="g172">
+              <g
+                 style="display:none"
+                 class="Visual"
+                 id="g158">
+                <g
+                   id="g144"
+                   fill="#000000"
+                   stroke="none"
+                   transform="translate(102.3315)"
+                   style="fill-opacity:1"
+                   class="DimensionMark">
+                  <polygon
+                     points="0,0 5,5 -5,5 "
+                     id="polygon142" />
+                </g>
+                <g
+                   id="g148"
+                   fill="#000000"
+                   stroke="none"
+                   transform="translate(204.6631,106.1876)"
+                   style="fill-opacity:1"
+                   class="DimensionMark">
+                  <polygon
+                     points="0,0 -5,5 -5,-5 "
+                     id="polygon146" />
+                </g>
+                <g
+                   id="g152"
+                   fill="#000000"
+                   stroke="none"
+                   transform="translate(102.3315,212.3751)"
+                   style="fill-opacity:1"
+                   class="DimensionMark">
+                  <polygon
+                     points="0,0 5,-5 -5,-5 "
+                     id="polygon150" />
+                </g>
+                <g
+                   id="g156"
+                   fill="#000000"
+                   stroke="none"
+                   transform="translate(0,106.1876)"
+                   style="fill-opacity:1"
+                   class="DimensionMark">
+                  <polygon
+                     points="0,0 5,-5 5,5 "
+                     id="polygon154" />
+                </g>
+              </g>
+              <g
+                 transform="translate(79.4057,150.314)"
+                 class="SpaceDimensionsLabel"
+                 id="g170">
+                <g
+                   id="g162"
+                   style="display:none"
+                   class="TextLabel NameLabel">
+                  <text
+                     x="0"
+                     y="0em"
+                     fill="#000000"
+                     stroke="none"
+                     style="font-size:33px;font-family:Verdana;fill-opacity:1"
+                     id="text160">TK</text>
+                </g>
+                <g
+                   id="g168"
+                   transform="translate(-118.5938,80.0938)"
+                   style="display:none"
+                   class="TextLabel DimensionMeasureLabel">
+                  <text
+                     x="52.679688"
+                     y="-1.2em"
+                     fill="#000000"
+                     stroke="none"
+                     style="font-size:33px;font-family:Verdana;fill-opacity:1"
+                     id="text164">6'9&quot; x 7'0&quot;</text>
+                  <text
+                     x="0"
+                     y="0em"
+                     fill="#000000"
+                     stroke="none"
+                     style="font-size:33px;font-family:Verdana;fill-opacity:1"
+                     id="text166">2.05 m x 2.12 m</text>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g
+             id="595526a7-b5fb-4ca0-91e0-f0bcc9253da9"
+             class="Space Bedroom"
+             fill="#ffffff"
+             stroke="#ffffff"
+             style="fill-opacity:1;stroke-width:0.2;stroke-opacity:1"
+             transform="matrix(1.8767865,0,0,1.8767865,608.20201,-47.67965)">
+            <polygon
+               points="1207.77,89.26 1207.77,440.33 906.64,440.33 906.64,89.26 "
+               id="polygon175" />
+            <g
+               transform="translate(906.6384,89.2647)"
+               class="Dimension"
+               id="g207">
+              <g
+                 style="display:none"
+                 class="Visual"
+                 id="g193">
+                <g
+                   id="g179"
+                   fill="#000000"
+                   stroke="none"
+                   transform="translate(150.5672)"
+                   style="fill-opacity:1"
+                   class="DimensionMark">
+                  <polygon
+                     points="0,0 5,5 -5,5 "
+                     id="polygon177" />
+                </g>
+                <g
+                   id="g183"
+                   fill="#000000"
+                   stroke="none"
+                   transform="translate(301.1345,175.532)"
+                   style="fill-opacity:1"
+                   class="DimensionMark">
+                  <polygon
+                     points="0,0 -5,5 -5,-5 "
+                     id="polygon181" />
+                </g>
+                <g
+                   id="g187"
+                   fill="#000000"
+                   stroke="none"
+                   transform="translate(150.5672,351.064)"
+                   style="fill-opacity:1"
+                   class="DimensionMark">
+                  <polygon
+                     points="0,0 5,-5 -5,-5 "
+                     id="polygon185" />
+                </g>
+                <g
+                   id="g191"
+                   fill="#000000"
+                   stroke="none"
+                   transform="translate(0,175.532)"
+                   style="fill-opacity:1"
+                   class="DimensionMark">
+                  <polygon
+                     points="0,0 5,-5 5,5 "
+                     id="polygon189" />
+                </g>
+              </g>
+              <g
+                 transform="translate(123.6924,157.5667)"
+                 class="SpaceDimensionsLabel"
+                 id="g205">
+                <g
+                   id="g197"
+                   style="display:none"
+                   class="TextLabel NameLabel">
+                  <text
+                     x="0"
+                     y="0em"
+                     fill="#000000"
+                     stroke="none"
+                     style="font-size:33px;font-family:Verdana;fill-opacity:1"
+                     id="text195">MH</text>
+                </g>
+                <g
+                   id="g203"
+                   transform="translate(-113.7031,80.0938)"
+                   style="display:none"
+                   class="TextLabel DimensionMeasureLabel">
+                  <text
+                     x="31.695312"
+                     y="-1.2em"
+                     fill="#000000"
+                     stroke="none"
+                     style="font-size:33px;font-family:Verdana;fill-opacity:1"
+                     id="text199">9'11&quot; x 11'6&quot;</text>
+                  <text
+                     x="0"
+                     y="0em"
+                     fill="#000000"
+                     stroke="none"
+                     style="font-size:33px;font-family:Verdana;fill-opacity:1"
+                     id="text201">3.01 m x 3.51 m</text>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g
+             id="a093816a-7b40-4a62-8809-cc64efabd34a"
+             class="Space Entry Lobby"
+             fill="#ffffff"
+             stroke="#ffffff"
+             style="fill-opacity:1;stroke-width:0.2;stroke-opacity:1"
+             transform="matrix(1.8767865,0,0,1.8767865,608.20201,-47.67965)">
+            <polygon
+               points="1204.92,915.41 1204.92,1363.67 1000.26,1363.67 1000.26,915.41 "
+               id="polygon210" />
+            <g
+               transform="translate(1000.2559,915.4085)"
+               class="Dimension"
+               id="g242">
+              <g
+                 style="display:none"
+                 class="Visual"
+                 id="g228">
+                <g
+                   id="g214"
+                   fill="#000000"
+                   stroke="none"
+                   transform="translate(102.3315)"
+                   style="fill-opacity:1"
+                   class="DimensionMark">
+                  <polygon
+                     points="0,0 5,5 -5,5 "
+                     id="polygon212" />
+                </g>
+                <g
+                   id="g218"
+                   fill="#000000"
+                   stroke="none"
+                   transform="translate(204.6631,224.1296)"
+                   style="fill-opacity:1"
+                   class="DimensionMark">
+                  <polygon
+                     points="0,0 -5,5 -5,-5 "
+                     id="polygon216" />
+                </g>
+                <g
+                   id="g222"
+                   fill="#000000"
+                   stroke="none"
+                   transform="translate(102.3315,448.2592)"
+                   style="fill-opacity:1"
+                   class="DimensionMark">
+                  <polygon
+                     points="0,0 5,-5 -5,-5 "
+                     id="polygon220" />
+                </g>
+                <g
+                   id="g226"
+                   fill="#000000"
+                   stroke="none"
+                   transform="translate(0,224.1296)"
+                   style="fill-opacity:1"
+                   class="DimensionMark">
+                  <polygon
+                     points="0,0 5,-5 5,5 "
+                     id="polygon224" />
+                </g>
+              </g>
+              <g
+                 transform="translate(79.429,234.8088)"
+                 class="SpaceDimensionsLabel"
+                 id="g240">
+                <g
+                   id="g232"
+                   style="display:none"
+                   class="TextLabel NameLabel">
+                  <text
+                     x="0"
+                     y="0em"
+                     fill="#000000"
+                     stroke="none"
+                     style="font-size:33px;font-family:Verdana;fill-opacity:1"
+                     id="text230">ET</text>
+                </g>
+                <g
+                   id="g238"
+                   transform="translate(-119.0781,80.0938)"
+                   style="display:none"
+                   class="TextLabel DimensionMeasureLabel">
+                  <text
+                     x="42.1875"
+                     y="-1.2em"
+                     fill="#000000"
+                     stroke="none"
+                     style="font-size:33px;font-family:Verdana;fill-opacity:1"
+                     id="text234">6'9&quot; x 14'8&quot;</text>
+                  <text
+                     x="0"
+                     y="0em"
+                     fill="#000000"
+                     stroke="none"
+                     style="font-size:33px;font-family:Verdana;fill-opacity:1"
+                     id="text236">2.05 m x 4.48 m</text>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g
+             id="b81bc9f7-b790-4cce-93d6-e5767428387e"
+             class="Space Bedroom"
+             fill="#ffffff"
+             stroke="#ffffff"
+             style="fill-opacity:1;stroke-width:0.2;stroke-opacity:1"
+             transform="matrix(1.8767865,0,0,1.8767865,608.20201,-47.67965)">
+            <polygon
+               points="1527.55,89.26 1527.55,542.1 1217.77,542.1 1217.77,89.26 "
+               id="polygon245" />
+            <g
+               transform="translate(1217.7728,89.2647)"
+               class="Dimension"
+               id="g277">
+              <g
+                 style="display:none"
+                 class="Visual"
+                 id="g263">
+                <g
+                   id="g249"
+                   fill="#000000"
+                   stroke="none"
+                   transform="translate(154.8885)"
+                   style="fill-opacity:1"
+                   class="DimensionMark">
+                  <polygon
+                     points="0,0 5,5 -5,5 "
+                     id="polygon247" />
+                </g>
+                <g
+                   id="g253"
+                   fill="#000000"
+                   stroke="none"
+                   transform="translate(309.7769,226.4187)"
+                   style="fill-opacity:1"
+                   class="DimensionMark">
+                  <polygon
+                     points="0,0 -5,5 -5,-5 "
+                     id="polygon251" />
+                </g>
+                <g
+                   id="g257"
+                   fill="#000000"
+                   stroke="none"
+                   transform="translate(154.8885,452.8374)"
+                   style="fill-opacity:1"
+                   class="DimensionMark">
+                  <polygon
+                     points="0,0 5,-5 -5,-5 "
+                     id="polygon255" />
+                </g>
+                <g
+                   id="g261"
+                   fill="#000000"
+                   stroke="none"
+                   transform="translate(0,226.4187)"
+                   style="fill-opacity:1"
+                   class="DimensionMark">
+                  <polygon
+                     points="0,0 5,-5 5,5 "
+                     id="polygon259" />
+                </g>
+              </g>
+              <g
+                 transform="translate(130.2871,207.7288)"
+                 class="SpaceDimensionsLabel"
+                 id="g275">
+                <g
+                   id="g267"
+                   style="display:none"
+                   class="TextLabel NameLabel">
+                  <text
+                     x="0"
+                     y="0em"
+                     fill="#000000"
+                     stroke="none"
+                     style="font-size:33px;font-family:Verdana;fill-opacity:1"
+                     id="text265">MH</text>
+                </g>
+                <g
+                   id="g273"
+                   transform="translate(-113.7031,80.0938)"
+                   style="display:none"
+                   class="TextLabel DimensionMeasureLabel">
+                  <text
+                     x="21.210938"
+                     y="-1.2em"
+                     fill="#000000"
+                     stroke="none"
+                     style="font-size:33px;font-family:Verdana;fill-opacity:1"
+                     id="text269">10'2&quot; x 14'10&quot;</text>
+                  <text
+                     x="0"
+                     y="0em"
+                     fill="#000000"
+                     stroke="none"
+                     style="font-size:33px;font-family:Verdana;fill-opacity:1"
+                     id="text271">3.10 m x 4.53 m</text>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g
+             id="02b29c55-2e00-4b27-a205-751ff8dc771e"
+             class="Space Bedroom"
+             fill="#ffffff"
+             stroke="#ffffff"
+             style="fill-opacity:1;stroke-width:0.2;stroke-opacity:1"
+             transform="matrix(1.8767865,0,0,1.8767865,608.20201,-47.67965)">
+            <polygon
+               points="540.72,89.26 540.72,440.33 101.5,440.33 101.5,89.26 "
+               id="polygon280" />
+            <g
+               transform="translate(101.5009,89.2647)"
+               class="Dimension"
+               id="g312">
+              <g
+                 style="display:none"
+                 class="Visual"
+                 id="g298">
+                <g
+                   id="g284"
+                   fill="#000000"
+                   stroke="none"
+                   transform="translate(219.6097)"
+                   style="fill-opacity:1"
+                   class="DimensionMark">
+                  <polygon
+                     points="0,0 5,5 -5,5 "
+                     id="polygon282" />
+                </g>
+                <g
+                   id="g288"
+                   fill="#000000"
+                   stroke="none"
+                   transform="translate(439.2194,175.532)"
+                   style="fill-opacity:1"
+                   class="DimensionMark">
+                  <polygon
+                     points="0,0 -5,5 -5,-5 "
+                     id="polygon286" />
+                </g>
+                <g
+                   id="g292"
+                   fill="#000000"
+                   stroke="none"
+                   transform="translate(219.6097,351.064)"
+                   style="fill-opacity:1"
+                   class="DimensionMark">
+                  <polygon
+                     points="0,0 5,-5 -5,-5 "
+                     id="polygon290" />
+                </g>
+                <g
+                   id="g296"
+                   fill="#000000"
+                   stroke="none"
+                   transform="translate(0,175.532)"
+                   style="fill-opacity:1"
+                   class="DimensionMark">
+                  <polygon
+                     points="0,0 5,-5 5,5 "
+                     id="polygon294" />
+                </g>
+              </g>
+              <g
+                 transform="translate(168.0438,157.1467)"
+                 class="SpaceDimensionsLabel"
+                 id="g310">
+                <g
+                   id="g302"
+                   style="display:none"
+                   class="TextLabel NameLabel">
+                  <text
+                     x="0"
+                     y="0em"
+                     fill="#000000"
+                     stroke="none"
+                     style="font-size:33px;font-family:Verdana;fill-opacity:1"
+                     id="text300">MH</text>
+                </g>
+                <g
+                   id="g308"
+                   transform="translate(-113.7031,80.0938)"
+                   style="display:none"
+                   class="TextLabel DimensionMeasureLabel">
+                  <text
+                     x="31.695312"
+                     y="-1.2em"
+                     fill="#000000"
+                     stroke="none"
+                     style="font-size:33px;font-family:Verdana;fill-opacity:1"
+                     id="text304">14'5&quot; x 11'6&quot;</text>
+                  <text
+                     x="0"
+                     y="0em"
+                     fill="#000000"
+                     stroke="none"
+                     style="font-size:33px;font-family:Verdana;fill-opacity:1"
+                     id="text306">4.39 m x 3.51 m</text>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g
+             id="3738b5ef-1d9e-4c8c-a7e1-5ffa9906eb71"
+             class="Space Storage"
+             fill="#ffffff"
+             stroke="#ffffff"
+             style="fill-opacity:1;stroke-width:0.2;stroke-opacity:1"
+             transform="matrix(1.8767865,0,0,1.8767865,608.20201,-47.67965)">
+            <polygon
+               points="1527.55,1079.87 1527.55,1586.04 1214.92,1586.04 1214.92,1079.87 "
+               id="polygon315" />
+            <g
+               transform="translate(1214.919,1079.8692)"
+               class="Dimension"
+               id="g347">
+              <g
+                 style="display:none"
+                 class="Visual"
+                 id="g333">
+                <g
+                   id="g319"
+                   fill="#000000"
+                   stroke="none"
+                   transform="translate(156.3154)"
+                   style="fill-opacity:1"
+                   class="DimensionMark">
+                  <polygon
+                     points="0,0 5,5 -5,5 "
+                     id="polygon317" />
+                </g>
+                <g
+                   id="g323"
+                   fill="#000000"
+                   stroke="none"
+                   transform="translate(312.6308,253.0868)"
+                   style="fill-opacity:1"
+                   class="DimensionMark">
+                  <polygon
+                     points="0,0 -5,5 -5,-5 "
+                     id="polygon321" />
+                </g>
+                <g
+                   id="g327"
+                   fill="#000000"
+                   stroke="none"
+                   transform="translate(156.3154,506.1737)"
+                   style="fill-opacity:1"
+                   class="DimensionMark">
+                  <polygon
+                     points="0,0 5,-5 -5,-5 "
+                     id="polygon325" />
+                </g>
+                <g
+                   id="g331"
+                   fill="#000000"
+                   stroke="none"
+                   transform="translate(0,253.0868)"
+                   style="fill-opacity:1"
+                   class="DimensionMark">
+                  <polygon
+                     points="0,0 5,-5 5,5 "
+                     id="polygon329" />
+                </g>
+              </g>
+              <g
+                 transform="translate(120.6759,253.497)"
+                 class="SpaceDimensionsLabel"
+                 id="g345">
+                <g
+                   id="g337"
+                   style="display:none"
+                   class="TextLabel NameLabel">
+                  <text
+                     x="0"
+                     y="0em"
+                     fill="#000000"
+                     stroke="none"
+                     style="font-size:33px;font-family:Verdana;fill-opacity:1"
+                     id="text335">VAR</text>
+                </g>
+                <g
+                   id="g343"
+                   transform="translate(-105.4531,80.0938)"
+                   style="display:none"
+                   class="TextLabel DimensionMeasureLabel">
+                  <text
+                     x="31.695312"
+                     y="-1.2em"
+                     fill="#000000"
+                     stroke="none"
+                     style="font-size:33px;font-family:Verdana;fill-opacity:1"
+                     id="text339">10'3&quot; x 16'7&quot;</text>
+                  <text
+                     x="0"
+                     y="0em"
+                     fill="#000000"
+                     stroke="none"
+                     style="font-size:33px;font-family:Verdana;fill-opacity:1"
+                     id="text341">3.13 m x 5.06 m</text>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g
+             id="6b52b8f2-c2a5-416d-8fd9-3f9c66ce1303"
+             class="Space Bath Shower"
+             fill="#ffffff"
+             stroke="#ffffff"
+             style="fill-opacity:1;stroke-width:0.2;stroke-opacity:1"
+             transform="matrix(1.8767865,0,0,1.8767865,608.20201,-47.67965)">
+            <polygon
+               points="1527.55,552.1 1527.55,735.3 1217.77,735.3 1217.77,552.1 "
+               id="polygon350" />
+            <g
+               transform="translate(1217.7728,552.1021)"
+               class="Dimension"
+               id="g382">
+              <g
+                 style="display:none"
+                 class="Visual"
+                 id="g368">
+                <g
+                   id="g354"
+                   fill="#000000"
+                   stroke="none"
+                   transform="translate(154.8885)"
+                   style="fill-opacity:1"
+                   class="DimensionMark">
+                  <polygon
+                     points="0,0 5,5 -5,5 "
+                     id="polygon352" />
+                </g>
+                <g
+                   id="g358"
+                   fill="#000000"
+                   stroke="none"
+                   transform="translate(309.7769,91.5981)"
+                   style="fill-opacity:1"
+                   class="DimensionMark">
+                  <polygon
+                     points="0,0 -5,5 -5,-5 "
+                     id="polygon356" />
+                </g>
+                <g
+                   id="g362"
+                   fill="#000000"
+                   stroke="none"
+                   transform="translate(154.8885,183.1962)"
+                   style="fill-opacity:1"
+                   class="DimensionMark">
+                  <polygon
+                     points="0,0 5,-5 -5,-5 "
+                     id="polygon360" />
+                </g>
+                <g
+                   id="g366"
+                   fill="#000000"
+                   stroke="none"
+                   transform="translate(0,91.5981)"
+                   style="fill-opacity:1"
+                   class="DimensionMark">
+                  <polygon
+                     points="0,0 5,-5 5,5 "
+                     id="polygon364" />
+                </g>
+              </g>
+              <g
+                 transform="translate(147.9405,81.2367)"
+                 class="SpaceDimensionsLabel"
+                 id="g380">
+                <g
+                   id="g372"
+                   style="display:none"
+                   class="TextLabel NameLabel">
+                  <text
+                     x="0"
+                     y="0em"
+                     fill="#000000"
+                     stroke="none"
+                     style="font-size:33px;font-family:Verdana;fill-opacity:1"
+                     id="text370">PH</text>
+                </g>
+                <g
+                   id="g378"
+                   transform="translate(-117.6641,80.0938)"
+                   style="display:none"
+                   class="TextLabel DimensionMeasureLabel">
+                  <text
+                     x="42.1875"
+                     y="-1.2em"
+                     fill="#000000"
+                     stroke="none"
+                     style="font-size:33px;font-family:Verdana;fill-opacity:1"
+                     id="text374">10'2&quot; x 6'0&quot;</text>
+                  <text
+                     x="0"
+                     y="0em"
+                     fill="#000000"
+                     stroke="none"
+                     style="font-size:33px;font-family:Verdana;fill-opacity:1"
+                     id="text376">3.10 m x 1.83 m</text>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g
+             id="ce136cd8-9518-4cd2-9298-9315ab289f9d"
+             class="Space Utility Laundry"
+             fill="#ffffff"
+             stroke="#ffffff"
+             style="fill-opacity:1;stroke-width:0.2;stroke-opacity:1"
+             transform="matrix(1.8767865,0,0,1.8767865,608.20201,-47.67965)">
+            <polygon
+               points="1314.6,905.41 1314.6,1069.87 1214.92,1069.87 1214.92,905.41 "
+               id="polygon385" />
+            <g
+               transform="translate(1214.919,905.4085)"
+               class="Dimension"
+               id="g417">
+              <g
+                 style="display:none"
+                 class="Visual"
+                 id="g403">
+                <g
+                   id="g389"
+                   fill="#000000"
+                   stroke="none"
+                   transform="translate(49.842)"
+                   style="fill-opacity:1"
+                   class="DimensionMark">
+                  <polygon
+                     points="0,0 5,5 -5,5 "
+                     id="polygon387" />
+                </g>
+                <g
+                   id="g393"
+                   fill="#000000"
+                   stroke="none"
+                   transform="translate(99.6841,82.2303)"
+                   style="fill-opacity:1"
+                   class="DimensionMark">
+                  <polygon
+                     points="0,0 -5,5 -5,-5 "
+                     id="polygon391" />
+                </g>
+                <g
+                   id="g397"
+                   fill="#000000"
+                   stroke="none"
+                   transform="translate(49.842,164.4606)"
+                   style="fill-opacity:1"
+                   class="DimensionMark">
+                  <polygon
+                     points="0,0 5,-5 -5,-5 "
+                     id="polygon395" />
+                </g>
+                <g
+                   id="g401"
+                   fill="#000000"
+                   stroke="none"
+                   transform="translate(0,82.2303)"
+                   style="fill-opacity:1"
+                   class="DimensionMark">
+                  <polygon
+                     points="0,0 5,-5 5,5 "
+                     id="polygon399" />
+                </g>
+              </g>
+              <g
+                 transform="translate(14.0816,64.5876)"
+                 class="SpaceDimensionsLabel"
+                 id="g415">
+                <g
+                   id="g407"
+                   style="display:none"
+                   class="TextLabel NameLabel">
+                  <text
+                     x="0"
+                     y="0em"
+                     fill="#000000"
+                     stroke="none"
+                     style="font-size:33px;font-family:Verdana;fill-opacity:1"
+                     id="text405">KHH</text>
+                </g>
+                <g
+                   id="g413"
+                   transform="translate(-103.7813,80.0938)"
+                   style="display:none"
+                   class="TextLabel DimensionMeasureLabel">
+                  <text
+                     x="52.679688"
+                     y="-1.2em"
+                     fill="#000000"
+                     stroke="none"
+                     style="font-size:33px;font-family:Verdana;fill-opacity:1"
+                     id="text409">3'3&quot; x 5'5&quot;</text>
+                  <text
+                     x="0"
+                     y="0em"
+                     fill="#000000"
+                     stroke="none"
+                     style="font-size:33px;font-family:Verdana;fill-opacity:1"
+                     id="text411">1.00 m x 1.64 m</text>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g
+             id="bbd275b9-c765-4fcb-8f25-eecb1d98e595"
+             class="Space DressingRoom"
+             fill="#ffffff"
+             stroke="#ffffff"
+             style="fill-opacity:1;stroke-width:0.2;stroke-opacity:1"
+             transform="matrix(1.8767865,0,0,1.8767865,608.20201,-47.67965)">
+            <polygon
+               points="1217.77,735.3 1284.43,735.3 1284.43,745.3 1324.6,745.3 1324.6,905.41 1113.72,905.41 1113.72,745.3 1217.77,745.3 "
+               id="polygon420" />
+            <g
+               transform="translate(1113.7221,735.2982)"
+               class="Dimension"
+               id="g452">
+              <g
+                 style="display:none"
+                 class="Visual"
+                 id="g438">
+                <g
+                   id="g424"
+                   fill="#000000"
+                   stroke="none"
+                   transform="translate(105.4405)"
+                   style="fill-opacity:1"
+                   class="DimensionMark">
+                  <polygon
+                     points="0,0 5,5 -5,5 "
+                     id="polygon422" />
+                </g>
+                <g
+                   id="g428"
+                   fill="#000000"
+                   stroke="none"
+                   transform="translate(210.881,85.0551)"
+                   style="fill-opacity:1"
+                   class="DimensionMark">
+                  <polygon
+                     points="0,0 -5,5 -5,-5 "
+                     id="polygon426" />
+                </g>
+                <g
+                   id="g432"
+                   fill="#000000"
+                   stroke="none"
+                   transform="translate(105.4405,170.1103)"
+                   style="fill-opacity:1"
+                   class="DimensionMark">
+                  <polygon
+                     points="0,0 5,-5 -5,-5 "
+                     id="polygon430" />
+                </g>
+                <g
+                   id="g436"
+                   fill="#000000"
+                   stroke="none"
+                   transform="translate(0,85.0551)"
+                   style="fill-opacity:1"
+                   class="DimensionMark">
+                  <polygon
+                     points="0,0 5,-5 5,5 "
+                     id="polygon434" />
+                </g>
+              </g>
+              <g
+                 transform="translate(96.0152,102.6482)"
+                 class="SpaceDimensionsLabel"
+                 id="g450">
+                <g
+                   id="g442"
+                   style="display:none"
+                   class="TextLabel NameLabel">
+                  <text
+                     x="0"
+                     y="0em"
+                     fill="#000000"
+                     stroke="none"
+                     style="font-size:33px;font-family:Verdana;fill-opacity:1"
+                     id="text440">PKH</text>
+                </g>
+                <g
+                   id="g448"
+                   transform="translate(-106.2266,80.0938)"
+                   style="display:none"
+                   class="TextLabel DimensionMeasureLabel">
+                  <text
+                     x="42.1875"
+                     y="-1.2em"
+                     fill="#000000"
+                     stroke="none"
+                     style="font-size:33px;font-family:Verdana;fill-opacity:1"
+                     id="text444">6'11&quot; x 5'7&quot;</text>
+                  <text
+                     x="0"
+                     y="0em"
+                     fill="#000000"
+                     stroke="none"
+                     style="font-size:33px;font-family:Verdana;fill-opacity:1"
+                     id="text446">2.11 m x 1.70 m</text>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g
+             id="a6fed4b3-e093-4287-9088-934a782b5229"
+             class="Space Kitchen"
+             fill="#ffffff"
+             stroke="#ffffff"
+             style="fill-opacity:1;stroke-width:0.2;stroke-opacity:1"
+             transform="matrix(1.8767865,0,0,1.8767865,608.20201,-47.67965)">
+            <polygon
+               points="732.32,450.33 732.32,440.33 550.72,440.33 550.72,89.26 896.64,89.26 896.64,450.33 "
+               id="polygon455" />
+            <g
+               transform="translate(550.7202,89.2647)"
+               class="Dimension"
+               id="g487">
+              <g
+                 style="display:none"
+                 class="Visual"
+                 id="g473">
+                <g
+                   id="g459"
+                   fill="#000000"
+                   stroke="none"
+                   transform="translate(181.6022)"
+                   style="fill-opacity:1"
+                   class="DimensionMark">
+                  <polygon
+                     points="0,0 5,5 -5,5 "
+                     id="polygon457" />
+                </g>
+                <g
+                   id="g463"
+                   fill="#000000"
+                   stroke="none"
+                   transform="translate(345.9181,180.532)"
+                   style="fill-opacity:1"
+                   class="DimensionMark">
+                  <polygon
+                     points="0,0 -5,5 -5,-5 "
+                     id="polygon461" />
+                </g>
+                <g
+                   id="g467"
+                   fill="#000000"
+                   stroke="none"
+                   transform="translate(181.6022,361.064)"
+                   style="fill-opacity:1"
+                   class="DimensionMark">
+                  <polygon
+                     points="0,0 5,-5 -5,-5 "
+                     id="polygon465" />
+                </g>
+                <g
+                   id="g471"
+                   fill="#000000"
+                   stroke="none"
+                   transform="translate(0,180.532)"
+                   style="fill-opacity:1"
+                   class="DimensionMark">
+                  <polygon
+                     points="0,0 5,-5 5,5 "
+                     id="polygon469" />
+                </g>
+              </g>
+              <g
+                 transform="translate(189.6601,156.947)"
+                 class="SpaceDimensionsLabel"
+                 id="g485">
+                <g
+                   id="g477"
+                   style="display:none"
+                   class="TextLabel NameLabel">
+                  <text
+                     x="0"
+                     y="0em"
+                     fill="#000000"
+                     stroke="none"
+                     style="font-size:33px;font-family:Verdana;fill-opacity:1"
+                     id="text475">K</text>
+                </g>
+                <g
+                   id="g483"
+                   transform="translate(-128.0078,80.0938)"
+                   style="display:none"
+                   class="TextLabel DimensionMeasureLabel">
+                  <text
+                     x="21.210938"
+                     y="-1.2em"
+                     fill="#000000"
+                     stroke="none"
+                     style="font-size:33px;font-family:Verdana;fill-opacity:1"
+                     id="text479">11'4&quot; x 11'10&quot;</text>
+                  <text
+                     x="0"
+                     y="0em"
+                     fill="#000000"
+                     stroke="none"
+                     style="font-size:33px;font-family:Verdana;fill-opacity:1"
+                     id="text481">3.46 m x 3.61 m</text>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g
+             id="f2f74017-712c-4f73-825d-869bb9f76941"
+             class="Space Entry Lobby"
+             fill="#ffffff"
+             stroke="#ffffff"
+             style="fill-opacity:1;stroke-width:0.2;stroke-opacity:1"
+             transform="matrix(1.8767865,0,0,1.8767865,608.20201,-47.67965)">
+            <polygon
+               points="1207.77,450.33 1207.77,735.3 812.87,735.3 812.87,450.33 "
+               id="polygon490" />
+            <g
+               transform="translate(812.8719,450.3287)"
+               class="Dimension"
+               id="g522">
+              <g
+                 style="display:none"
+                 class="Visual"
+                 id="g508">
+                <g
+                   id="g494"
+                   fill="#000000"
+                   stroke="none"
+                   transform="translate(197.4504)"
+                   style="fill-opacity:1"
+                   class="DimensionMark">
+                  <polygon
+                     points="0,0 5,5 -5,5 "
+                     id="polygon492" />
+                </g>
+                <g
+                   id="g498"
+                   fill="#000000"
+                   stroke="none"
+                   transform="translate(394.9009,142.4848)"
+                   style="fill-opacity:1"
+                   class="DimensionMark">
+                  <polygon
+                     points="0,0 -5,5 -5,-5 "
+                     id="polygon496" />
+                </g>
+                <g
+                   id="g502"
+                   fill="#000000"
+                   stroke="none"
+                   transform="translate(197.4504,284.9696)"
+                   style="fill-opacity:1"
+                   class="DimensionMark">
+                  <polygon
+                     points="0,0 5,-5 -5,-5 "
+                     id="polygon500" />
+                </g>
+                <g
+                   id="g506"
+                   fill="#000000"
+                   stroke="none"
+                   transform="translate(0,142.4848)"
+                   style="fill-opacity:1"
+                   class="DimensionMark">
+                  <polygon
+                     points="0,0 5,-5 5,5 "
+                     id="polygon504" />
+                </g>
+              </g>
+              <g
+                 transform="translate(144.682,125.3636)"
+                 class="SpaceDimensionsLabel"
+                 id="g520">
+                <g
+                   id="g512"
+                   style="display:none"
+                   class="TextLabel NameLabel">
+                  <text
+                     x="0"
+                     y="0em"
+                     fill="#000000"
+                     stroke="none"
+                     style="font-size:33px;font-family:Verdana;fill-opacity:1"
+                     id="text510">ET</text>
+                </g>
+                <g
+                   id="g518"
+                   transform="translate(-119.0781,80.0938)"
+                   style="display:none"
+                   class="TextLabel DimensionMeasureLabel">
+                  <text
+                     x="31.695312"
+                     y="-1.2em"
+                     fill="#000000"
+                     stroke="none"
+                     style="font-size:33px;font-family:Verdana;fill-opacity:1"
+                     id="text514">12'11&quot; x 9'4&quot;</text>
+                  <text
+                     x="0"
+                     y="0em"
+                     fill="#000000"
+                     stroke="none"
+                     style="font-size:33px;font-family:Verdana;fill-opacity:1"
+                     id="text516">3.95 m x 2.85 m</text>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g
+             id="54c1efbe-e72e-421d-8576-3311bc4619c8"
+             class="Space LivingRoom"
+             fill="#ffffff"
+             stroke="#ffffff"
+             style="fill-opacity:1;stroke-width:0.2;stroke-opacity:1"
+             transform="matrix(1.8767865,0,0,1.8767865,608.20201,-47.67965)">
+            <polygon
+               points="802.87,571.54 802.87,905.41 101.5,905.41 101.5,450.33 812.87,450.33 812.87,571.54 "
+               id="polygon525" />
+            <g
+               transform="translate(101.5009,450.3287)"
+               class="Dimension"
+               id="g557">
+              <g
+                 style="display:none"
+                 class="Visual"
+                 id="g543">
+                <g
+                   id="g529"
+                   fill="#000000"
+                   stroke="none"
+                   transform="translate(355.6855)"
+                   style="fill-opacity:1"
+                   class="DimensionMark">
+                  <polygon
+                     points="0,0 5,5 -5,5 "
+                     id="polygon527" />
+                </g>
+                <g
+                   id="g533"
+                   fill="#000000"
+                   stroke="none"
+                   transform="translate(701.3711,227.5399)"
+                   style="fill-opacity:1"
+                   class="DimensionMark">
+                  <polygon
+                     points="0,0 -5,5 -5,-5 "
+                     id="polygon531" />
+                </g>
+                <g
+                   id="g537"
+                   fill="#000000"
+                   stroke="none"
+                   transform="translate(355.6855,455.0798)"
+                   style="fill-opacity:1"
+                   class="DimensionMark">
+                  <polygon
+                     points="0,0 5,-5 -5,-5 "
+                     id="polygon535" />
+                </g>
+                <g
+                   id="g541"
+                   fill="#000000"
+                   stroke="none"
+                   transform="translate(0,227.5399)"
+                   style="fill-opacity:1"
+                   class="DimensionMark">
+                  <polygon
+                     points="0,0 5,-5 5,5 "
+                     id="polygon539" />
+                </g>
+              </g>
+              <g
+                 transform="translate(334.8872,238.4302)"
+                 class="SpaceDimensionsLabel"
+                 id="g555">
+                <g
+                   id="g547"
+                   style="display:none"
+                   class="TextLabel NameLabel">
+                  <text
+                     x="0"
+                     y="0em"
+                     fill="#000000"
+                     stroke="none"
+                     style="font-size:33px;font-family:Verdana;fill-opacity:1"
+                     id="text545">OH</text>
+                </g>
+                <g
+                   id="g553"
+                   transform="translate(-114.625,80.0938)"
+                   style="display:none"
+                   class="TextLabel DimensionMeasureLabel">
+                  <text
+                     x="21.210938"
+                     y="-1.2em"
+                     fill="#000000"
+                     stroke="none"
+                     style="font-size:33px;font-family:Verdana;fill-opacity:1"
+                     id="text549">23'0&quot; x 14'11&quot;</text>
+                  <text
+                     x="0"
+                     y="0em"
+                     fill="#000000"
+                     stroke="none"
+                     style="font-size:33px;font-family:Verdana;fill-opacity:1"
+                     id="text551">7.01 m x 4.55 m</text>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g
+             id="Wall"
+             class="Wall External"
+             fill="#000000"
+             stroke="#000000"
+             style="fill-opacity:1;stroke-width:0.2;stroke-opacity:1"
+             transform="matrix(1.8767865,0,0,1.8767865,608.20201,-47.67965)">
+            <polygon
+               points="1527.55,1586.04 1562.55,1620.36 1562.55,54.88 1527.55,89.26 "
+               id="polygon560" />
+            <g
+               id="Window"
+               fill="#f0f0ff"
+               stroke="#000000"
+               style="fill-opacity:1;stroke-width:1;stroke-opacity:1"
+               class="Window Regular">
+              <polygon
+                 points="1527.55,850.21 1562.55,850.21 1562.55,756.65 1527.55,756.65 "
+                 id="polygon574" />
+              <g
+                 id="Glass"
+                 class="Glass">
+                <polygon
+                   points="1527.55,850.21 1562.55,850.21 1562.55,756.65 1527.55,756.65 "
+                   id="polygon576" />
+              </g>
+              <g
+                 id="g585"
+                 class="Panel">
+                <line
+                   x1="1545.05"
+                   x2="1545.05"
+                   y1="842.71002"
+                   y2="764.15002"
+                   id="line579" />
+                <line
+                   x1="1562.55"
+                   x2="1527.55"
+                   y1="842.71002"
+                   y2="842.71002"
+                   id="line581" />
+                <line
+                   x1="1562.55"
+                   x2="1527.55"
+                   y1="764.15002"
+                   y2="764.15002"
+                   id="line583" />
+              </g>
+            </g>
+            <g
+               id="g602"
+               fill="#f0f0ff"
+               stroke="#000000"
+               style="fill-opacity:1;stroke-width:1;stroke-opacity:1"
+               class="Window Regular">
+              <polygon
+                 points="1527.55,655.49 1562.55,655.49 1562.55,564.4 1527.55,564.4 "
+                 id="polygon588" />
+              <g
+                 id="g592"
+                 class="Glass">
+                <polygon
+                   points="1527.55,655.49 1562.55,655.49 1562.55,564.4 1527.55,564.4 "
+                   id="polygon590" />
+              </g>
+              <g
+                 id="g600"
+                 class="Panel">
+                <line
+                   x1="1545.05"
+                   x2="1545.05"
+                   y1="647.98999"
+                   y2="571.90002"
+                   id="line594" />
+                <line
+                   x1="1562.55"
+                   x2="1527.55"
+                   y1="647.98999"
+                   y2="647.98999"
+                   id="line596" />
+                <line
+                   x1="1562.55"
+                   x2="1527.55"
+                   y1="571.90002"
+                   y2="571.90002"
+                   id="line598" />
+              </g>
+            </g>
+          </g>
+          <g
+             id="g623"
+             class="Wall External"
+             fill="#000000"
+             stroke="#000000"
+             style="fill-opacity:1;stroke-width:0.2;stroke-opacity:1"
+             transform="matrix(1.8767865,0,0,1.8767865,608.20201,-47.67965)">
+            <polygon
+               points="101.5,89.26 64.5,54.88 64.5,942.68 101.5,905.41 "
+               id="polygon605" />
+            <g
+               id="g621"
+               fill="#f0f0ff"
+               stroke="#000000"
+               style="fill-opacity:1;stroke-width:1;stroke-opacity:1"
+               class="Window Regular">
+              <polygon
+                 points="101.5,203.05 64.5,203.05 64.5,387.06 101.5,387.06 "
+                 id="polygon607" />
+              <g
+                 id="g611"
+                 class="Glass">
+                <polygon
+                   points="101.5,203.05 64.5,203.05 64.5,387.06 101.5,387.06 "
+                   id="polygon609" />
+              </g>
+              <g
+                 id="g619"
+                 class="Panel">
+                <line
+                   x1="83"
+                   x2="83"
+                   y1="210.55"
+                   y2="379.56"
+                   id="line613" />
+                <line
+                   x1="64.5"
+                   x2="101.5"
+                   y1="210.55"
+                   y2="210.55"
+                   id="line615" />
+                <line
+                   x1="64.5"
+                   x2="101.5"
+                   y1="379.56"
+                   y2="379.56"
+                   id="line617" />
+              </g>
+            </g>
+          </g>
+          <g
+             id="g691"
+             class="Wall External"
+             fill="#000000"
+             stroke="#000000"
+             style="fill-opacity:1;stroke-width:0.2;stroke-opacity:1"
+             transform="matrix(1.8767865,0,0,1.8767865,608.20201,-47.67965)">
+            <polygon
+               points="101.5,905.41 64.5,942.68 962.26,942.68 1000.26,905.41 "
+               id="polygon625" />
+            <g
+               id="g641"
+               fill="#ffffff"
+               stroke="#000000"
+               style="fill-opacity:1;stroke-width:1;stroke-opacity:1"
+               class="Door Swing Beside">
+              <polygon
+                 points="869.19,905.41 869.19,942.68 958.04,942.68 958.04,905.41 "
+                 id="polygon627" />
+              <g
+                 id="g631"
+                 class="Threshold">
+                <polygon
+                   points="869.19,905.41 869.19,942.68 958.04,942.68 958.04,905.41 "
+                   id="polygon629" />
+              </g>
+              <g
+                 id="g639"
+                 fill="none"
+                 class="Panel Left Negative">
+                <g
+                   id="g635"
+                   fill="none"
+                   stroke="none"
+                   class="PanelArea">
+                  <polygon
+                     points="869.19,905.41 869.19,942.68 958.04,942.68 958.04,905.41 "
+                     id="polygon633" />
+                </g>
+                <path
+                   d="m 869.19,942.68 q 0,88.85 88.85,88.85 v -88.85 z"
+                   id="path637" />
+              </g>
+            </g>
+            <g
+               id="g657"
+               fill="#f0f0ff"
+               stroke="#000000"
+               style="fill-opacity:1;stroke-width:1;stroke-opacity:1"
+               class="Window Regular">
+              <polygon
+                 points="186.21,905.41 186.21,942.68 366.75,942.68 366.75,905.41 "
+                 id="polygon643" />
+              <g
+                 id="g647"
+                 class="Glass">
+                <polygon
+                   points="186.21,905.41 186.21,942.68 366.75,942.68 366.75,905.41 "
+                   id="polygon645" />
+              </g>
+              <g
+                 id="g655"
+                 class="Panel">
+                <line
+                   x1="193.71001"
+                   x2="359.25"
+                   y1="924.04498"
+                   y2="924.04498"
+                   id="line649" />
+                <line
+                   x1="193.71001"
+                   x2="193.71001"
+                   y1="942.67999"
+                   y2="905.40997"
+                   id="line651" />
+                <line
+                   x1="359.25"
+                   x2="359.25"
+                   y1="942.67999"
+                   y2="905.40997"
+                   id="line653" />
+              </g>
+            </g>
+            <g
+               id="g673"
+               fill="#f0f0ff"
+               stroke="#000000"
+               style="fill-opacity:1;stroke-width:1;stroke-opacity:1"
+               class="Window Regular">
+              <polygon
+                 points="382.35,905.41 382.35,942.68 535.58,942.68 535.58,905.41 "
+                 id="polygon659" />
+              <g
+                 id="g663"
+                 class="Glass">
+                <polygon
+                   points="382.35,905.41 382.35,942.68 535.58,942.68 535.58,905.41 "
+                   id="polygon661" />
+              </g>
+              <g
+                 id="g671"
+                 class="Panel">
+                <line
+                   x1="389.85001"
+                   x2="528.08002"
+                   y1="924.04498"
+                   y2="924.04498"
+                   id="line665" />
+                <line
+                   x1="389.85001"
+                   x2="389.85001"
+                   y1="942.67999"
+                   y2="905.40997"
+                   id="line667" />
+                <line
+                   x1="528.08002"
+                   x2="528.08002"
+                   y1="942.67999"
+                   y2="905.40997"
+                   id="line669" />
+              </g>
+            </g>
+            <g
+               id="g689"
+               fill="#f0f0ff"
+               stroke="#000000"
+               style="fill-opacity:1;stroke-width:1;stroke-opacity:1"
+               class="Window Regular">
+              <polygon
+                 points="550.03,905.41 550.03,942.68 731.94,942.68 731.94,905.41 "
+                 id="polygon675" />
+              <g
+                 id="g679"
+                 class="Glass">
+                <polygon
+                   points="550.03,905.41 550.03,942.68 731.94,942.68 731.94,905.41 "
+                   id="polygon677" />
+              </g>
+              <g
+                 id="g687"
+                 class="Panel">
+                <line
+                   x1="557.53003"
+                   x2="724.44"
+                   y1="924.04498"
+                   y2="924.04498"
+                   id="line681" />
+                <line
+                   x1="557.53003"
+                   x2="557.53003"
+                   y1="942.67999"
+                   y2="905.40997"
+                   id="line683" />
+                <line
+                   x1="724.44"
+                   x2="724.44"
+                   y1="942.67999"
+                   y2="905.40997"
+                   id="line685" />
+              </g>
+            </g>
+          </g>
+          <g
+             id="g743"
+             class="Wall External"
+             fill="#000000"
+             stroke="#000000"
+             style="fill-opacity:1;stroke-width:0.2;stroke-opacity:1"
+             transform="matrix(1.8767865,0,0,1.8767865,608.20201,-47.67965)">
+            <polygon
+               points="1000.26,905.41 962.26,942.68 962.26,1620.36 1000.26,1586.04 "
+               id="polygon693" />
+            <g
+               id="g709"
+               fill="#f0f0ff"
+               stroke="#000000"
+               style="fill-opacity:1;stroke-width:1;stroke-opacity:1"
+               class="Window Regular">
+              <polygon
+                 points="1000.26,1053.43 962.26,1053.43 962.26,1146.7 1000.26,1146.7 "
+                 id="polygon695" />
+              <g
+                 id="g699"
+                 class="Glass">
+                <polygon
+                   points="1000.26,1053.43 962.26,1053.43 962.26,1146.7 1000.26,1146.7 "
+                   id="polygon697" />
+              </g>
+              <g
+                 id="g707"
+                 class="Panel">
+                <line
+                   x1="981.26001"
+                   x2="981.26001"
+                   y1="1060.9301"
+                   y2="1139.2"
+                   id="line701" />
+                <line
+                   x1="962.26001"
+                   x2="1000.26"
+                   y1="1060.9301"
+                   y2="1060.9301"
+                   id="line703" />
+                <line
+                   x1="962.26001"
+                   x2="1000.26"
+                   y1="1139.2"
+                   y2="1139.2"
+                   id="line705" />
+              </g>
+            </g>
+            <g
+               id="g725"
+               fill="#f0f0ff"
+               stroke="#000000"
+               style="fill-opacity:1;stroke-width:1;stroke-opacity:1"
+               class="Window Regular">
+              <polygon
+                 points="1000.26,1159.99 962.26,1159.99 962.26,1251.61 1000.26,1251.61 "
+                 id="polygon711" />
+              <g
+                 id="g715"
+                 class="Glass">
+                <polygon
+                   points="1000.26,1159.99 962.26,1159.99 962.26,1251.61 1000.26,1251.61 "
+                   id="polygon713" />
+              </g>
+              <g
+                 id="g723"
+                 class="Panel">
+                <line
+                   x1="981.26001"
+                   x2="981.26001"
+                   y1="1167.49"
+                   y2="1244.11"
+                   id="line717" />
+                <line
+                   x1="962.26001"
+                   x2="1000.26"
+                   y1="1167.49"
+                   y2="1167.49"
+                   id="line719" />
+                <line
+                   x1="962.26001"
+                   x2="1000.26"
+                   y1="1244.11"
+                   y2="1244.11"
+                   id="line721" />
+              </g>
+            </g>
+            <g
+               id="g741"
+               fill="#f0f0ff"
+               stroke="#000000"
+               style="fill-opacity:1;stroke-width:1;stroke-opacity:1"
+               class="Window Regular">
+              <polygon
+                 points="1000.26,1264.53 962.26,1264.53 962.26,1358.11 1000.26,1358.11 "
+                 id="polygon727" />
+              <g
+                 id="g731"
+                 class="Glass">
+                <polygon
+                   points="1000.26,1264.53 962.26,1264.53 962.26,1358.11 1000.26,1358.11 "
+                   id="polygon729" />
+              </g>
+              <g
+                 id="g739"
+                 class="Panel">
+                <line
+                   x1="981.26001"
+                   x2="981.26001"
+                   y1="1272.03"
+                   y2="1350.61"
+                   id="line733" />
+                <line
+                   x1="962.26001"
+                   x2="1000.26"
+                   y1="1272.03"
+                   y2="1272.03"
+                   id="line735" />
+                <line
+                   x1="962.26001"
+                   x2="1000.26"
+                   y1="1350.61"
+                   y2="1350.61"
+                   id="line737" />
+              </g>
+            </g>
+          </g>
+          <g
+             id="g779"
+             class="Wall External"
+             fill="#000000"
+             stroke="#000000"
+             style="fill-opacity:1;stroke-width:0.2;stroke-opacity:1"
+             transform="matrix(1.8767865,0,0,1.8767865,608.20201,-47.67965)">
+            <polygon
+               points="1000.26,1586.04 962.26,1620.36 1562.55,1620.36 1527.55,1586.04 "
+               id="polygon745" />
+            <g
+               id="g761"
+               fill="#ffffff"
+               stroke="#000000"
+               style="fill-opacity:1;stroke-width:1;stroke-opacity:1"
+               class="Door Swing Beside">
+              <polygon
+                 points="1110.27,1586.04 1110.27,1620.36 1188.65,1620.36 1188.65,1586.04 "
+                 id="polygon747" />
+              <g
+                 id="g751"
+                 class="Threshold">
+                <polygon
+                   points="1110.27,1586.04 1110.27,1620.36 1188.65,1620.36 1188.65,1586.04 "
+                   id="polygon749" />
+              </g>
+              <g
+                 id="g759"
+                 fill="none"
+                 class="Panel Left Negative">
+                <g
+                   id="g755"
+                   fill="none"
+                   stroke="none"
+                   class="PanelArea">
+                  <polygon
+                     points="1110.27,1586.04 1110.27,1620.36 1188.65,1620.36 1188.65,1586.04 "
+                     id="polygon753" />
+                </g>
+                <path
+                   d="m 1110.27,1620.36 q 0,78.38 78.38,78.38 v -78.38 z"
+                   id="path757" />
+              </g>
+            </g>
+          </g>
+          <g
+             id="g799"
+             class="Wall"
+             fill="#000000"
+             stroke="#000000"
+             style="fill-opacity:1;stroke-width:0.2;stroke-opacity:1"
+             transform="matrix(1.8767865,0,0,1.8767865,608.20201,-47.67965)">
+            <polygon
+               points="1000.26,915.41 1000.26,905.41 1214.92,905.41 1204.92,915.41 "
+               id="polygon781" />
+            <g
+               id="g797"
+               fill="#ffffff"
+               stroke="#000000"
+               style="fill-opacity:1;stroke-width:1;stroke-opacity:1"
+               class="Door Swing Beside">
+              <polygon
+                 points="1120.52,915.41 1120.52,905.41 1190.02,905.41 1190.02,915.41 "
+                 id="polygon783" />
+              <g
+                 id="g787"
+                 class="Threshold">
+                <polygon
+                   points="1120.52,915.41 1120.52,905.41 1190.02,905.41 1190.02,915.41 "
+                   id="polygon785" />
+              </g>
+              <g
+                 id="g795"
+                 fill="none"
+                 class="Panel Right Negative">
+                <g
+                   id="g791"
+                   fill="none"
+                   stroke="none"
+                   class="PanelArea">
+                  <polygon
+                     points="1120.52,915.41 1120.52,905.41 1190.02,905.41 1190.02,915.41 "
+                     id="polygon789" />
+                </g>
+                <path
+                   d="m 1190.02,905.41 q 0,-69.5 -69.5,-69.5 v 69.5 z"
+                   id="path793" />
+              </g>
+            </g>
+          </g>
+          <g
+             id="g803"
+             class="Wall"
+             fill="#000000"
+             stroke="#000000"
+             style="fill-opacity:1;stroke-width:0.2;stroke-opacity:1"
+             transform="matrix(1.8767865,0,0,1.8767865,608.20201,-47.67965)">
+            <polygon
+               points="1214.92,905.41 1204.92,915.41 1204.92,1620.36 1214.92,1620.36 "
+               id="polygon801" />
+          </g>
+          <g
+             id="g823"
+             class="Wall"
+             fill="#000000"
+             stroke="#000000"
+             style="fill-opacity:1;stroke-width:0.2;stroke-opacity:1"
+             transform="matrix(1.8767865,0,0,1.8767865,608.20201,-47.67965)">
+            <polygon
+               points="962.26,1363.67 962.26,1373.67 1214.92,1373.67 1214.92,1363.67 "
+               id="polygon805" />
+            <g
+               id="g821"
+               fill="#ffffff"
+               stroke="#000000"
+               style="fill-opacity:1;stroke-width:1;stroke-opacity:1"
+               class="Door Swing Beside">
+              <polygon
+                 points="1119.77,1363.67 1119.77,1373.67 1200.81,1373.67 1200.81,1363.67 "
+                 id="polygon807" />
+              <g
+                 id="g811"
+                 class="Threshold">
+                <polygon
+                   points="1119.77,1363.67 1119.77,1373.67 1200.81,1373.67 1200.81,1363.67 "
+                   id="polygon809" />
+              </g>
+              <g
+                 id="g819"
+                 fill="none"
+                 class="Panel Left Negative">
+                <g
+                   id="g815"
+                   fill="none"
+                   stroke="none"
+                   class="PanelArea">
+                  <polygon
+                     points="1119.77,1363.67 1119.77,1373.67 1200.81,1373.67 1200.81,1363.67 "
+                     id="polygon813" />
+                </g>
+                <path
+                   d="m 1119.77,1373.67 q 0,81.04 81.04,81.04 v -81.04 z"
+                   id="path817" />
+              </g>
+            </g>
+          </g>
+          <g
+             id="g831"
+             class="Wall"
+             fill="#000000"
+             stroke="#000000"
+             style="fill-opacity:1;stroke-width:0.2;stroke-opacity:1"
+             transform="matrix(1.8767865,0,0,2.010759,626.96988,-197.25106)">
+            <polygon
+               points="1314.6,1069.87 1324.6,1079.87 1324.6,919.47 1314.6,905.41 "
+               id="polygon829" />
+          </g>
+          <g
+             id="g835"
+             class="Wall"
+             fill="#000000"
+             stroke="#000000"
+             style="fill-opacity:1;stroke-width:0.2;stroke-opacity:1"
+             transform="matrix(2.1878943,0,0,1.8729084,233.35184,-43.511227)">
+            <polygon
+               points="1204.92,1079.87 1324.6,1079.87 1314.6,1069.87 1204.92,1069.87 "
+               id="polygon833" />
+          </g>
+          <g
+             id="g839"
+             class="Wall"
+             fill="#000000"
+             stroke="#000000"
+             style="fill-opacity:1;stroke-width:0.2;stroke-opacity:1"
+             transform="matrix(1.8767865,0,0,1.8767865,608.20201,-47.67965)">
+            <polygon
+               points="1324.6,1067.26 1324.6,1079.87 1562.55,1079.87 1562.55,1067.26 "
+               id="polygon837" />
+          </g>
+          <g
+             id="g847"
+             class="Wall"
+             fill="#000000"
+             stroke="#000000"
+             style="fill-opacity:1;stroke-width:0.2;stroke-opacity:1"
+             transform="matrix(1.8767865,0,0,1.8767865,608.20201,-47.67965)">
+            <polygon
+               points="1334.6,905.41 1324.6,905.41 1324.6,745.3 1334.6,735.3 "
+               id="polygon845" />
+          </g>
+          <g
+             id="g867"
+             class="Wall"
+             fill="#000000"
+             stroke="#000000"
+             style="fill-opacity:1;stroke-width:0.2;stroke-opacity:1"
+             transform="matrix(1.8767865,0,0,1.8767865,608.20201,-47.67965)">
+            <polygon
+               points="1334.6,735.3 1334.6,745.3 1562.55,745.3 1562.55,735.3 "
+               id="polygon849" />
+            <g
+               id="g865"
+               fill="#ffffff"
+               stroke="#000000"
+               style="fill-opacity:1;stroke-width:1;stroke-opacity:1"
+               class="Door Swing Beside">
+              <polygon
+                 points="1341.46,735.3 1341.46,745.3 1418.96,745.3 1418.96,735.3 "
+                 id="polygon851" />
+              <g
+                 id="g855"
+                 class="Threshold">
+                <polygon
+                   points="1341.46,735.3 1341.46,745.3 1418.96,745.3 1418.96,735.3 "
+                   id="polygon853" />
+              </g>
+              <g
+                 id="g863"
+                 fill="none"
+                 class="Panel Left Positive">
+                <g
+                   id="g859"
+                   fill="none"
+                   stroke="none"
+                   class="PanelArea">
+                  <polygon
+                     points="1341.46,735.3 1341.46,745.3 1418.96,745.3 1418.96,735.3 "
+                     id="polygon857" />
+                </g>
+                <path
+                   d="m 1418.96,735.3 q 0,-77.5 -77.5,-77.5 v 77.5 z"
+                   id="path861" />
+              </g>
+            </g>
+          </g>
+          <g
+             id="g875"
+             class="Wall"
+             fill="#000000"
+             stroke="#000000"
+             style="fill-opacity:1;stroke-width:0.2;stroke-opacity:1"
+             transform="matrix(1.8767865,0,0,1.8767865,608.20201,-47.67965)">
+            <polygon
+               points="1324.6,745.3 1334.6,735.3 1284.43,735.3 1284.43,745.3 "
+               id="polygon873" />
+          </g>
+          <g
+             id="g927"
+             class="Wall"
+             fill="#000000"
+             stroke="#000000"
+             style="fill-opacity:1;stroke-width:0.2;stroke-opacity:1"
+             transform="matrix(1.8767865,0,0,1.8767865,608.20201,-47.67965)">
+            <polygon
+               points="1217.77,745.3 1207.77,735.3 812.87,735.3 802.87,745.3 "
+               id="polygon877" />
+            <g
+               id="g893"
+               fill="#ffffff"
+               stroke="#000000"
+               style="fill-opacity:1;stroke-width:1;stroke-opacity:1"
+               class="Door Swing Beside">
+              <polygon
+                 points="984.87,745.3 984.87,735.3 892.83,735.3 892.83,745.3 "
+                 id="polygon879" />
+              <g
+                 id="g883"
+                 class="Threshold">
+                <polygon
+                   points="984.87,745.3 984.87,735.3 892.83,735.3 892.83,745.3 "
+                   id="polygon881" />
+              </g>
+              <g
+                 id="g891"
+                 fill="none"
+                 class="Panel Left Positive">
+                <g
+                   id="g887"
+                   fill="none"
+                   stroke="none"
+                   class="PanelArea">
+                  <polygon
+                     points="984.87,745.3 984.87,735.3 892.83,735.3 892.83,745.3 "
+                     id="polygon885" />
+                </g>
+                <path
+                   d="m 892.83,745.3 q 0,92.04 92.04,92.04 V 745.3 Z"
+                   id="path889" />
+              </g>
+            </g>
+            <g
+               id="g909"
+               fill="#ffffff"
+               stroke="#000000"
+               style="fill-opacity:1;stroke-width:1;stroke-opacity:1"
+               class="Door Swing Beside"
+               transform="translate(33.172047,170.1727)">
+              <polygon
+                 points="1003.83,735.3 1003.83,745.3 1063.9,745.3 1063.9,735.3 "
+                 id="polygon895" />
+              <g
+                 id="g899"
+                 class="Threshold">
+                <polygon
+                   points="1003.83,735.3 1003.83,745.3 1063.9,745.3 1063.9,735.3 "
+                   id="polygon897" />
+              </g>
+              <g
+                 id="g907"
+                 fill="none"
+                 class="Panel Left Negative">
+                <g
+                   id="g903"
+                   fill="none"
+                   stroke="none"
+                   class="PanelArea">
+                  <polygon
+                     points="1003.83,735.3 1003.83,745.3 1063.9,745.3 1063.9,735.3 "
+                     id="polygon901" />
+                </g>
+                <path
+                   d="m 1063.9,735.3 q 0,-60.07 -60.07,-60.07 v 60.07 z"
+                   id="path905" />
+              </g>
+            </g>
+            <g
+               id="g925"
+               fill="#ffffff"
+               stroke="#000000"
+               style="fill-opacity:1;stroke-width:1;stroke-opacity:1"
+               class="Door Swing Beside">
+              <polygon
+                 points="1188.93,745.3 1188.93,735.3 1120.16,735.3 1120.16,745.3 "
+                 id="polygon911" />
+              <g
+                 id="g915"
+                 class="Threshold">
+                <polygon
+                   points="1188.93,745.3 1188.93,735.3 1120.16,735.3 1120.16,745.3 "
+                   id="polygon913" />
+              </g>
+              <g
+                 id="g923"
+                 fill="none"
+                 class="Panel Right Positive">
+                <g
+                   id="g919"
+                   fill="none"
+                   stroke="none"
+                   class="PanelArea">
+                  <polygon
+                     points="1188.93,745.3 1188.93,735.3 1120.16,735.3 1120.16,745.3 "
+                     id="polygon917" />
+                </g>
+                <path
+                   d="m 1188.93,745.3 q 0,68.77 -68.77,68.77 V 745.3 Z"
+                   id="path921" />
+              </g>
+            </g>
+            <path
+               style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0"
+               d="m 796.53468,438.43503 v -1.60207 l 8.09252,-0.1491 c 4.45089,-0.082 24.88921,-0.19956 45.41849,-0.26125 l 37.32597,-0.11216 v 1.86332 1.86333 h -45.41849 -45.41849 z"
+               id="path1925" />
+            <g
+               id="g925-2"
+               fill="#ffffff"
+               stroke="#000000"
+               style="fill-opacity:1;stroke-width:1;stroke-opacity:1"
+               class="Door Swing Beside"
+               transform="translate(114.21114,333.9284)">
+              <polygon
+                 points="1188.93,735.3 1120.16,735.3 1120.16,745.3 1188.93,745.3 "
+                 id="polygon911-6" />
+              <g
+                 id="g915-0"
+                 class="Threshold">
+                <polygon
+                   points="1188.93,735.3 1120.16,735.3 1120.16,745.3 1188.93,745.3 "
+                   id="polygon913-9" />
+              </g>
+              <g
+                 id="g923-9"
+                 fill="none"
+                 class="Panel Right Positive">
+                <g
+                   id="g919-6"
+                   fill="none"
+                   stroke="none"
+                   class="PanelArea">
+                  <polygon
+                     points="1188.93,735.3 1120.16,735.3 1120.16,745.3 1188.93,745.3 "
+                     id="polygon917-7" />
+                </g>
+                <path
+                   d="m 1188.93,745.3 q 0,68.77 -68.77,68.77 V 745.3 Z"
+                   id="path921-5" />
+              </g>
+            </g>
+          </g>
+          <g
+             id="g931"
+             class="Wall"
+             fill="#000000"
+             stroke="#000000"
+             style="fill-opacity:1;stroke-width:0.2;stroke-opacity:1"
+             transform="matrix(1.8767865,0,0,1.8767865,608.20201,-47.67965)">
+            <polygon
+               points="812.87,735.3 802.87,735.3 802.87,942.68 812.87,942.68 "
+               id="polygon929" />
+          </g>
+          <g
+             id="g935"
+             class="Wall"
+             fill="#000000"
+             stroke="#000000"
+             style="fill-opacity:1;stroke-width:0.2;stroke-opacity:1"
+             transform="matrix(1.8767865,0,0,1.8767865,608.20201,-47.67965)">
+            <polygon
+               points="1113.72,735.3 1103.72,735.3 1103.72,915.41 1113.72,915.41 "
+               id="polygon933" />
+          </g>
+          <g
+             id="g939"
+             class="Wall"
+             fill="#000000"
+             stroke="#000000"
+             style="fill-opacity:1;stroke-width:0.2;stroke-opacity:1"
+             transform="matrix(1.8767865,0,0,1.8767865,608.20201,-47.67965)">
+            <polygon
+               points="990.26,905.41 1000.26,905.41 1000.26,735.3 990.26,735.3 "
+               id="polygon937" />
+          </g>
+          <g
+             id="g975"
+             class="Wall"
+             fill="#000000"
+             stroke="#000000"
+             style="fill-opacity:1;stroke-width:0.2;stroke-opacity:1"
+             transform="matrix(1.8767865,0,0,1.8767865,608.20201,-47.67965)">
+            <polygon
+               points="1217.77,745.3 1217.77,54.88 1207.77,54.88 1207.77,735.3 "
+               id="polygon941"
+               transform="matrix(1,0,0,0.44171664,0,416.08859)" />
+            <g
+               id="g957"
+               fill="#ffffff"
+               stroke="#000000"
+               style="fill-opacity:1;stroke-width:1;stroke-opacity:1"
+               class="Door Swing Beside">
+              <polygon
+                 points="1207.77,698.48 1217.77,698.48 1217.77,618.22 1207.77,618.22 "
+                 id="polygon943" />
+              <g
+                 id="g947"
+                 class="Threshold">
+                <polygon
+                   points="1207.77,698.48 1217.77,698.48 1217.77,618.22 1207.77,618.22 "
+                   id="polygon945" />
+              </g>
+              <g
+                 id="g955"
+                 fill="none"
+                 class="Panel Right Positive">
+                <g
+                   id="g951"
+                   fill="none"
+                   stroke="none"
+                   class="PanelArea">
+                  <polygon
+                     points="1207.77,698.48 1217.77,698.48 1217.77,618.22 1207.77,618.22 "
+                     id="polygon949" />
+                </g>
+                <path
+                   d="m 1207.77,698.48 q -80.26,0 -80.26,-80.26 h 80.26 z"
+                   id="path953" />
+              </g>
+            </g>
+          </g>
+          <g
+             id="g979"
+             class="Wall"
+             fill="#000000"
+             stroke="#000000"
+             style="fill-opacity:1;stroke-width:0.2;stroke-opacity:1"
+             transform="matrix(1.8767865,0,0,1.8767865,608.20201,-47.67965)">
+            <polygon
+               points="1562.55,552.1 1562.55,542.1 1207.77,542.1 1207.77,552.1 "
+               id="polygon977" />
+          </g>
+          <g
+             id="g983"
+             class="Wall"
+             fill="#000000"
+             stroke="#000000"
+             style="fill-opacity:1;stroke-width:0.2;stroke-opacity:1"
+             transform="matrix(1.8767865,0,0,1.8767865,608.20201,-47.67965)">
+            <polygon
+               points="802.87,745.3 812.87,735.3 812.87,571.54 802.87,571.54 "
+               id="polygon981" />
+          </g>
+          <g
+             id="g987"
+             class="Wall"
+             fill="#000000"
+             stroke="#000000"
+             style="fill-opacity:1;stroke-width:0.2;stroke-opacity:1"
+             transform="matrix(1.8767865,0,0,1.8767865,608.20201,-47.67965)">
+            <polygon
+               points="540.72,450.33 550.72,450.33 550.72,54.88 540.72,54.88 "
+               id="polygon985" />
+          </g>
+          <g
+             id="g991"
+             class="Wall"
+             fill="#000000"
+             stroke="#000000"
+             style="fill-opacity:1;stroke-width:0.2;stroke-opacity:1"
+             transform="matrix(1.8767865,0,0,1.8767865,608.20201,-47.67965)">
+            <polygon
+               points="896.64,450.33 906.64,440.33 906.64,89.26 896.64,89.26 "
+               id="polygon989" />
+          </g>
+          <g
+             id="g1027"
+             class="Wall External"
+             fill="#000000"
+             stroke="#000000"
+             style="fill-opacity:1;stroke-width:0.2;stroke-opacity:1"
+             transform="matrix(1.8767865,0,0,1.8767865,608.20201,-47.67965)">
+            <polygon
+               points="1527.55,89.26 1562.55,54.88 906.64,54.88 906.64,89.26 "
+               id="polygon993" />
+            <g
+               id="g1009"
+               fill="#f0f0ff"
+               stroke="#000000"
+               style="fill-opacity:1;stroke-width:1;stroke-opacity:1"
+               class="Window Regular">
+              <polygon
+                 points="1398.88,89.26 1398.88,54.88 1218.64,54.88 1218.64,89.26 "
+                 id="polygon995" />
+              <g
+                 id="g999"
+                 class="Glass">
+                <polygon
+                   points="1398.88,89.26 1398.88,54.88 1218.64,54.88 1218.64,89.26 "
+                   id="polygon997" />
+              </g>
+              <g
+                 id="g1007"
+                 class="Panel">
+                <line
+                   x1="1391.38"
+                   x2="1226.14"
+                   y1="72.07"
+                   y2="72.07"
+                   id="line1001" />
+                <line
+                   x1="1391.38"
+                   x2="1391.38"
+                   y1="54.880001"
+                   y2="89.260002"
+                   id="line1003" />
+                <line
+                   x1="1226.14"
+                   x2="1226.14"
+                   y1="54.880001"
+                   y2="89.260002"
+                   id="line1005" />
+              </g>
+            </g>
+            <g
+               id="g1025"
+               fill="#f0f0ff"
+               stroke="#000000"
+               style="fill-opacity:1;stroke-width:1;stroke-opacity:1"
+               class="Window Regular">
+              <polygon
+                 points="1117.71,89.26 1117.71,54.88 936.18,54.88 936.18,89.26 "
+                 id="polygon1011" />
+              <g
+                 id="g1015"
+                 class="Glass">
+                <polygon
+                   points="1117.71,89.26 1117.71,54.88 936.18,54.88 936.18,89.26 "
+                   id="polygon1013" />
+              </g>
+              <g
+                 id="g1023"
+                 class="Panel">
+                <line
+                   x1="1110.21"
+                   x2="943.67999"
+                   y1="72.07"
+                   y2="72.07"
+                   id="line1017" />
+                <line
+                   x1="1110.21"
+                   x2="1110.21"
+                   y1="54.880001"
+                   y2="89.260002"
+                   id="line1019" />
+                <line
+                   x1="943.67999"
+                   x2="943.67999"
+                   y1="54.880001"
+                   y2="89.260002"
+                   id="line1021" />
+              </g>
+            </g>
+          </g>
+          <polygon
+             points="906.64,89.26 906.64,54.88 64.5,54.88 101.5,89.26 "
+             id="polygon1029"
+             transform="matrix(1.8767865,0,0,1.8767865,608.20201,-47.67965)"
+             style="fill-opacity:1;stroke-width:0.2;stroke-opacity:1" />
+          <g
+             id="g1045"
+             fill="#f0f0ff"
+             stroke="#000000"
+             style="fill-opacity:1;stroke-width:1;stroke-opacity:1"
+             class="Window Regular"
+             transform="matrix(1.8767865,0,0,1.8767865,608.20201,-47.67965)">
+            <polygon
+               points="825.52,89.26 825.52,54.88 641.9,54.88 641.9,89.26 "
+               id="polygon1031" />
+            <g
+               id="g1035"
+               class="Glass">
+              <polygon
+                 points="825.52,89.26 825.52,54.88 641.9,54.88 641.9,89.26 "
+                 id="polygon1033" />
+            </g>
+            <g
+               id="g1043"
+               class="Panel">
+              <line
+                 x1="818.02002"
+                 x2="649.40002"
+                 y1="72.07"
+                 y2="72.07"
+                 id="line1037" />
+              <line
+                 x1="818.02002"
+                 x2="818.02002"
+                 y1="54.880001"
+                 y2="89.260002"
+                 id="line1039" />
+              <line
+                 x1="649.40002"
+                 x2="649.40002"
+                 y1="54.880001"
+                 y2="89.260002"
+                 id="line1041" />
+            </g>
+          </g>
+          <g
+             id="g1067"
+             class="Wall"
+             fill="#000000"
+             stroke="#000000"
+             style="fill-opacity:1;stroke-width:0.2;stroke-opacity:1"
+             transform="matrix(1.8767865,0,0,1.8767865,608.20201,-47.67965)">
+            <polygon
+               points="1217.77,450.33 1217.77,440.33 906.64,440.33 896.64,450.33 "
+               id="polygon1049" />
+            <g
+               id="g1065"
+               fill="#ffffff"
+               stroke="#000000"
+               style="fill-opacity:1;stroke-width:1;stroke-opacity:1"
+               class="Door Swing Beside">
+              <polygon
+                 points="990.54,450.33 990.54,440.33 911.53,440.33 911.53,450.33 "
+                 id="polygon1051" />
+              <g
+                 id="g1055"
+                 class="Threshold">
+                <polygon
+                   points="990.54,450.33 990.54,440.33 911.53,440.33 911.53,450.33 "
+                   id="polygon1053" />
+              </g>
+              <g
+                 id="g1063"
+                 fill="none"
+                 class="Panel Left Negative">
+                <g
+                   id="g1059"
+                   fill="none"
+                   stroke="none"
+                   class="PanelArea">
+                  <polygon
+                     points="990.54,450.33 990.54,440.33 911.53,440.33 911.53,450.33 "
+                     id="polygon1057" />
+                </g>
+                <path
+                   d="m 990.54,440.33 q 0,-79.01 -79.01,-79.01 v 79.01 z"
+                   id="path1061" />
+              </g>
+            </g>
+          </g>
+          <g
+             id="g1087"
+             class="Wall"
+             fill="#000000"
+             stroke="#000000"
+             style="fill-opacity:1;stroke-width:0.2;stroke-opacity:1"
+             transform="matrix(1.8767865,0,0,1.8767865,608.20205,-47.67965)">
+            <polygon
+               points="64.5,450.33 732.32,450.33 732.32,440.33 64.5,440.33 "
+               id="polygon1069"
+               transform="matrix(1.0476939,0,0,1.0018394,-3.0875023,-0.81915529)" />
+            <g
+               id="g1085"
+               fill="#ffffff"
+               stroke="#000000"
+               style="fill-opacity:1;stroke-width:1;stroke-opacity:1"
+               class="Door Swing Beside">
+              <polygon
+                 points="443.11,440.33 363.92,440.33 363.92,450.33 443.11,450.33 "
+                 id="polygon1071" />
+              <g
+                 id="g1075"
+                 class="Threshold">
+                <polygon
+                   points="443.11,440.33 363.92,440.33 363.92,450.33 443.11,450.33 "
+                   id="polygon1073" />
+              </g>
+              <g
+                 id="g1083"
+                 fill="none"
+                 class="Panel Right Negative">
+                <g
+                   id="g1079"
+                   fill="none"
+                   stroke="none"
+                   class="PanelArea">
+                  <polygon
+                     points="443.11,440.33 363.92,440.33 363.92,450.33 443.11,450.33 "
+                     id="polygon1077" />
+                </g>
+                <path
+                   d="m 363.92,440.33 q 0,-79.19 79.19,-79.19 v 79.19 z"
+                   id="path1081" />
+              </g>
+            </g>
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;stroke-width:0.999999"
+               x="650.94714"
+               y="291.56665"
+               id="text10988"><tspan
+                 sodipodi:role="line"
+                 id="tspan10986"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999999"
+                 x="650.94714"
+                 y="291.56665">KITCHEN</tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;stroke-width:0.999999"
+               x="-802.44446"
+               y="-234.38451"
+               id="text10988-9"
+               transform="scale(-1)"><tspan
+                 sodipodi:role="line"
+                 id="tspan10986-2"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999999"
+                 x="-802.44446"
+                 y="-234.38451">KITCHEN</tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;stroke-width:0.999999"
+               x="1382.6578"
+               y="929.93481"
+               id="text10988-1"><tspan
+                 sodipodi:role="line"
+                 id="tspan10986-9"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999999"
+                 x="1382.6578"
+                 y="929.93481">BATH</tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;stroke-width:0.999999"
+               x="-1471.9318"
+               y="-872.75256"
+               id="text10988-9-1"
+               transform="scale(-1)"><tspan
+                 sodipodi:role="line"
+                 id="tspan10986-2-4"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999999"
+                 x="-1471.9318"
+                 y="-872.75256">BATH</tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;stroke-width:0.999999"
+               x="281.90018"
+               y="277.82648"
+               id="text21064"><tspan
+                 sodipodi:role="line"
+                 id="tspan21062"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999999"
+                 x="281.90018"
+                 y="277.82648">A</tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;stroke-width:0.999999"
+               x="1350.7162"
+               y="1338.7054"
+               id="text23114-9"><tspan
+                 sodipodi:role="line"
+                 id="tspan23112-0"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999999"
+                 x="1350.7162"
+                 y="1338.7054">C</tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;stroke-width:0.999999"
+               x="1074.5465"
+               y="1154.2057"
+               id="text23114-5"><tspan
+                 sodipodi:role="line"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999999"
+                 x="1074.5465"
+                 y="1154.2057"
+                 id="tspan10407">D</tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill-opacity:1;stroke-width:0.999999;stroke-opacity:1"
+               x="1022.7709"
+               y="827.75806"
+               id="text10988-1-7"><tspan
+                 sodipodi:role="line"
+                 id="tspan10986-9-7"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999999"
+                 x="1022.7709"
+                 y="827.75806">WC</tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;fill-opacity:1;stroke-width:0.999999;stroke-opacity:1"
+               x="-1079.0183"
+               y="-770.57581"
+               id="text10988-9-1-3"
+               transform="scale(-1)"><tspan
+                 sodipodi:role="line"
+                 id="tspan10986-2-4-8"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999999"
+                 x="-1079.0183"
+                 y="-770.57581">WC</tspan></text>
+          </g>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:125.119px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;stroke-width:1.87678"
+             x="2854.8711"
+             y="497.07156"
+             id="text23114"><tspan
+               sodipodi:role="line"
+               id="tspan23112"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:125.119px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.87678"
+               x="2854.8711"
+               y="497.07156">B</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:125.119px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;fill-opacity:1;stroke-width:1.87678;stroke-opacity:1"
+             x="1436.7261"
+             y="1255.3625"
+             id="text23114-5-9"><tspan
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:125.119px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.87678"
+               x="1436.7261"
+               y="1255.3625"
+               id="tspan10407-8">E</tspan></text>
+        </g>
+        <g
+           id="g900"
+           transform="matrix(-17.922684,0,0,-40.949186,5430.614,3035.1517)"
+           style="fill:#00a7ff;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-opacity:1"
+           inkscape:export-filename="C:\Users\fimmohr\projects_local\_git\communaudictive\experiments\2022_AUD_APMR202201_initial_study\floor_plans\exports\With Labels and Env\plan0_4bed_env.png"
+           inkscape:export-xdpi="150.00378"
+           inkscape:export-ydpi="150.00378">
+          <path
+             style="fill:#00a7ff;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 174.75344,-3.5768248 c 23.50485,14.3072998 50.33103,16.6066868 50.33103,16.6066868 0,0 18.3951,0.510975 26.31521,4.598775 7.92011,4.087799 6.1317,10.98596 22.7384,5.876211 16.60668,-5.109749 16.60668,-7.664624 18.90606,-7.920111 2.29939,-0.255488 8.43108,4.854262 10.21951,-1.788413 V -4.0877998 Z"
+             id="path891" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
