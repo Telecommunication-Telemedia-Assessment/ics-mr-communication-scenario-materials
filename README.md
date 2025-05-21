@@ -18,7 +18,7 @@ The task materials for the floor plan negotiation scenario consist of various ap
 
 ### TASK 2: Spot the Difference
 
-The task materials for the 'spot the difference' task include 
+The task materials for the 'spot the difference' task encompass: 
 * lists of shapes to be shown to each participant
 * an image for each listed shape
 * a python script to generate images from the shape lists, in case the shape lists are changed
@@ -31,3 +31,13 @@ The task materials for the 'spot the difference' task include
 
 ### TASK 3: Survival Game
 
+The task materials for the survival game consist of:
+* Text descriptions of 5 survival scenarios
+* A list of items for each survival scenario
+* An image corresponding to each survival item
+
+**Scenario Descriptions:** to be shown before (and/or during) each trial to set the scene for each scenario.
+
+**Item Lists:** A set of .csv files stored in the `SurvivalItemData` directory, with short and long names for each item, and an ID used to link to an image.
+
+**Item Images:** A set of .png images stored in the `SurvivalItemImages` directory, with one image per item.
