@@ -6,7 +6,7 @@ This repository contains task materials for the scenarios contained in the ICS-M
 
 The task materials are organized by scenario, and are summarized below:
 
-### TASK 1: Floor Plan Negotiation
+### SCENARIO 1: Floor Plan Negotiation
 
 The task materials for the floor plan negotiation scenario consist of:
 * Various apartment floor plan images with different characteristics. 
@@ -17,7 +17,7 @@ The task materials for the floor plan negotiation scenario consist of:
 
 **File Type:** All images are included as vector graphics (.svg) in directory `FloorPlanSVG` for convenient editing and as rasterized images (.png) in directory `FloorPlanImages` for use as textures in Unity.  
 
-### TASK 2: Spot the Difference
+### SCENARIO 2: Spot the Difference
 
 The task materials for the 'spot the difference' task encompass: 
 * Lists of shapes to be shown to each participant
@@ -30,7 +30,7 @@ The task materials for the 'spot the difference' task encompass:
 
 **Image Creation Script:** If shape images are required for shape lists that have been updated, the python script included in directory `SVGGenerator` can be executed to create new collections of shape images.
 
-### TASK 3: Survival Game
+### SCENARIO 3: Survival Game
 
 The task materials for the survival game consist of:
 * Text descriptions of 5 survival scenarios
