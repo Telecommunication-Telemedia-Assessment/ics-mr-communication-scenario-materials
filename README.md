@@ -48,3 +48,10 @@ Provided materials:
 **Task Sheets:** The task sheets can be found as latex and PDF files in the `SurvivalItemSheets` directory.
 
 **Task Sheet Generator:** New task sheets for different participant group sizes or new item lists can be generated using the `generate_item_sheets_merged.py` script in the `SurvivalItemSheetGenerator` directory.
+
+
+## License
+
+This dataset is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license.
+
+See the [LICENSE](LICENSE.txt) file for details.
