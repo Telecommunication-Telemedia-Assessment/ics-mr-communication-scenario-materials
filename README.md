@@ -44,7 +44,7 @@ Provided materials:
 
 **Item Lists:** A set of `.csv` files stored in the `SurvivalItemData` directory, with short and long names for each item, and an ID used to link to an image.
 
-**Item Images:** A set of `.png` images stored in the `SurvivalItemImages` directory, with one image per item. Corresponding image attributions are stored in `SurvivalItemImages/../image_attributions.pdf`.
+**Item Images:** A set of `.png` images stored in the `SurvivalItemImages` directory, with one image per item. Corresponding image attributions are stored in [S3_SurvivalGame/image_attributions.md](S3_SurvivalGame/image_attributions.md).
 
 **Task Sheets:** The task sheets can be found as latex (`.tex`) and PDF files in the `SurvivalItemSheets` directory.
 
