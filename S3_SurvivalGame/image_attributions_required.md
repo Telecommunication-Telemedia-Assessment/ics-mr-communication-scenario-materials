@@ -1,0 +1,42 @@
+
+---
+geometry: margin=1.8cm
+output: pdf_document
+---
+
+# Image Attribution
+* Map (Winter, Sea, Desert, Moon, Cave): Image by _anastasi17_ on [**www.freepik.com**](https://www.freepik.com/premium-vector/folded-paper-desktop-local-map-traveler-driver-military-touristic-equipment-camping-tourism_22978600.htm)
+* Book: Image by _upklyak_ on [**www.freepik.com**](https://www.freepik.com/free-vector/book-spine-cover-mockup-blank-classic-volume_20499095.htm)
+* Camping stool: Image by _macrovector_ on [**www.freepik.com**](https://www.freepik.com/free-vector/vector-set-picnic-folding-chairs-with-black-legs-blue-green-grey-violet-seats-isolated-white-background_11053284.htm)
+* Food concentrate (Moon, Cave): Image adapted from _xadartstudio_ on [**www.freepik.com**](https://www.freepik.com/free-psd/dried-tea-leaves-transparent-pouch-with-blank-label-ready-branding-design-mockup-template_411049499.htm)
+* Diving equipment: Image by _macrovector_ on [**www.freepik.com**](https://www.freepik.com/free-vector/diving-accessories-realistic-set-with-snorkel-breathing-tube-mask-flippers-underwater-sport-blue_6801346.htm)
+* First-aid kit (Desert, Moon): Adapted from image by _8photo_ on [**www.freepik.com**](https://www.freepik.com/free-photo/first-aid-kit-with-pills-top-view-dark-wooden-background_7417621.htm)
+* Fishing kit (Sea, Mountain): Image by _macrovector_ on [**www.freepik.com**](https://www.freepik.com/free-vector/realistic-fishing-gear-set_6883602.htm)
+* Signal flares: Image by _R. Bienz_ from [**Wikimedia Commons**](https://de.wikipedia.org/wiki/Datei:Handfackel_2006.jpg) (CC-BY-SA 3.0)
+* Folding shovel: Image by _BWikipedianer0001_ on [**Wikimedia Commons**](https://commons.wikimedia.org/wiki/File:Bundeswehr_Feldspaten_mit_5-Farben-Tarndruck-Tasche.JPG) (CC-BY 3.0)
+* Funnel: Image by [_Ralph Aichinger_](https://flickr.com/photos/sooperkuh/) on [**Flickr**](https://flickr.com/photos/88249458@N00/6360506353) (CC-BY 2.0)
+* Machete: Adapted from image by [_aomorikuma_](https://commons.wikimedia.org/wiki/User:\%E3\%81\%82\%E3\%81\%8A\%E3\%82\%82\%E3\%82\%8A\%E3\%81\%8F\%E3\%81\%BE) on [**Wikimedia Commons**](https://commons.wikimedia.org/wiki/File:PRECISION_Machete.JPG) (CC-BY-SA 3.0)
+* Sleeping mat: Image by [**www.freepik.com**](https://www.freepik.com/free-photo/side-view-woman-rolling-yoga-mat-grass_11283023.htm)
+* Dry milk: Adapted from image by _vectorpocket_ on [**www.freepik.com**](https://www.freepik.com/free-vector/set-color-vector-illustrations-whole-milk-powder_1320629.htm)
+* Mine lamp: Image by [Ulfbastel](https://commons.wikimedia.org/wiki/User:Ulfbastel) on [**Wikimedia Commons**](https://commons.wikimedia.org/wiki/File:Grubenlampe.jpg) (CC-BY-SA 3.0)
+* Mirror (Sea, Desert): Image by freepik on [**www.freepik.com**](https://www.freepik.com/free-photo/young-woman-with-eating-disorder-checking-herself-mirror_20282253.htm)
+* Mosquito netting: Image by [**www.freepik.com**](https://www.freepik.com/free-photo/transparent-silk-fabric-material_7746932.htmtba)
+* Oil canister: Image by _Gray StudioPro_ on [**www.freepik.com**](https://www.freepik.com/free-photo/plastic-jerry-can-isolated-white-background_35624356.htm)
+* Overcoat: Adapted from image by _freepik_ on [**www.freepik.com**](https://www.freepik.com/free-vector/hand-drawn-winter-clothes-essentials_3516129.htm)
+* Oxygen tanks: Adapted image by [**www.freepik.com**](https://www.freepik.com/free-photo/steel-oxygen-tanks-arrangement_25269697.htm)
+* Plastic raincoat: Image by _macrovector_ on [**www.freepik.com**](https://www.freepik.com/free-vector/vector-set-long-short-blue-gray-unisex-sport-jackets-with-hood-rubber-boots-front-view-isolated-white-background_11053287.htm)
+* Transistor radio: Image by _freepik_ on [**www.freepik.com**](https://it.freepik.com/foto-gratuito/ricevitore-radio-di-trasmissione-retro-su-sfondo-rosa-e-azzurro_10358426.htm#from_view=detail_alsolike)
+* Rope (Sea, Moon): Adapted from image by _relineo_ on [**www.freepik.com**](https://www.freepik.com/free-psd/rope-isolated-with-clipping-path_7843312.htm)
+* Rope ladder: Image by _vectorpocket_ on [**www.freepik.com**](https://www.freepik.com/free-vector/realistic-brown-rope-ladder-isolated-white-background-staircase-with-cords_3264733.htm)
+* Rubber boat: Image from [_NJR ZA_](https://commons.wikimedia.org/wiki/User:NJR_ZA) from [**Wikimedia Commons**](https://commons.wikimedia.org/wiki/File:Inflatable_boat-001.jpg) (CC-BY-SA 3.0)
+* Rubber boots: Image by unknown on [**Wikimedia Commons**](https://commons.wikimedia.org/wiki/File:Wellies.jpg) (CC-BY-SA 1.0)
+* Shirt and pants: Image by _vector\_corp_ and mrsiraphol on [**www.freepik.com**](www.freepik.com)
+* Parachute silk: Adapted from image by [_Auckland Museum_](https://commons.wikimedia.org/wiki/Commons:Batch_uploading/AucklandMuseumCCBY) on [**Wikimedia Commons**](https://commons.wikimedia.org/wiki/File:Parachute_silk,_embroidered_(AM_2006.101.2-8).jpg) (CC-BY 4.0)
+* Spray can: Image adapted from image by [**www.freepik.com**](https://www.freepik.com/free-photo/close-up-spray-bottle_20149200.htm)
+* Rum: Image by _vectorpouch_ on [**www.freepik.com**](https://www.freepik.com/free-vector/mexican-alcohol-drink-flask-with-cork-isolated-white_5467370.htm)
+* Camping tent: Image by _ITUBB_ via [**Pixabay**](https://pixabay.com/photos/tent-camping-outdoors-campground-5887142/)
+* Torch: Image by [_KMJ_](https://en.wikipedia.org/wiki/de:User:KMJ) at [**Wikimedia Commons**](https://commons.wikimedia.org/wiki/File:Flashlight.jpg) (CC-BY-SA 3.0)
+* Towels: Image by _rawpixel.com_ on [**www.freepik.com**](https://www.freepik.com/free-photo/folded-natural-cotton-towel_18099553.htm)
+* Solar FM transmitter: Image adapted from Photo by [_James Case_](https://www.flickr.com/people/7467877@N07) from Philadelphia, Mississippi, U.S.A. on [**Wikimedia Commons**](https://commons.wikimedia.org/wiki/File:HQ_Issue_HQ500_(11789720913).jpg) (CC-BY-SA 3.0)
+* Animal trap: Image from [**Wikimedia Commons**](https://commons.wikimedia.org/wiki/File:Bear_trap.jpg) originally posted to Flickr by Minnesota Historical Society (CC-BY-SA 2.0)
+* Water container (Winter, Desert, Moon): Image by _jemastock_ on [**www.freepik.com**](https://www.freepik.com/free-vector/bottle-gallon-cleaning-product-icon_73262344.htm)
