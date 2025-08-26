@@ -1,6 +1,6 @@
 # ICS-MR: Communication Scenario Materials
 
-This repository contains materials for the scenarios described in the ICS-MR (Interactive Conversation Scenarios for Assessment of Mixed Reality Communication) dataset.
+This repository contains materials for the scenarios described in the [ICS-MR (Interactive Conversation Scenarios for Assessment of Mixed Reality Communication) dataset and paper](https://doi.org/10.1145/3746027.3758247).
 Corresponding Unity-based implementations can be found in a [separate repository](https://github.com/Telecommunication-Telemedia-Assessment/ics-mr-communication-scenario-materials).
 
 ## Materials
@@ -50,6 +50,28 @@ Provided materials:
 
 **Task Sheet Generator:** New task sheets for different participant group sizes or new item lists can be generated using the `generate_item_sheets_merged.py` script in the `SurvivalItemSheetGenerator` directory.
 
+## Acknowledgments and Citation
+If you use the dataset in your research, please include a link to the repository and reference the following paper: 
+
+```bibtex
+@article{immohr2025interactive,
+  title={ICS-MR: Interactive Conversation Scenarios for Assessment of
+ Mixed Reality Communication},
+  author={Immohr, Felix and Rendle, Gareth and Neidhardt, Annika and Lammert, Anton and Froehlich, Bernd and Raake, Alexander},
+  booktitle={Proceedings of the 33rd ACM International Conference on Multimedia},
+  year={2025},
+  pages={xx},
+  doi={10.1145/3746027.3758247},
+  url={https://doi.org/10.1145/3746027.3758247}
+}
+```
+**Authors:**
+* Felix Immohr
+* Gareth Rendle
+* Annika Neidhardt
+* Anton Lammert
+* Bernd Froehlich
+* Alexander Raake
 
 ## License
 
