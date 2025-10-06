@@ -1,7 +1,7 @@
 # ICS-MR: Communication Scenario Materials
 
 This repository contains materials for the scenarios described in the ICS-MR (Interactive Conversation Scenarios for Assessment of Mixed Reality Communication) dataset and [paper](https://doi.org/10.1145/3746027.3758247).
-Corresponding Unity-based implementations can be found in a [separate repository](https://github.com/Telecommunication-Telemedia-Assessment/ics-mr-communication-scenario-materials).
+Corresponding Unity-based implementations can be found in a [separate repository](https://github.com/vrsys/ics-mr-unity-communication-scenarios).
 
 ## Materials
 
